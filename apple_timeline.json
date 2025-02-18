@@ -11,9 +11,9 @@
                 "text": "Steve Jobs, Steve Wozniak, and Ronald Wayne found Apple Computer in a garage in Cupertino, California."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
-                "caption": "Apple Logo",
-                "credit": "Wikimedia Commons"
+                "url": "https://photos5.appleinsider.com/gallery/35159-64318-000-lead-Apple-founders-xl.jpg",
+                "caption": "Apple's original founders Steve Wozniak, Steve Jobs, Ron Wayne",
+                "credit": "Apple Insider"
             }
         },
         {
@@ -25,7 +25,7 @@
                 "text": "Apple II becomes one of the first successful personal computers with color graphics."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Apple_II_typical_configuration.JPG",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Apple_II_IMG_4212.jpg",
                 "caption": "Apple II Computer",
                 "credit": "Wikimedia Commons"
             }
@@ -41,9 +41,9 @@
                 "text": "Apple introduces the Macintosh with a graphical user interface and mouse, revolutionizing computing."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Macintosh_128k_transparency.png",
-                "caption": "Macintosh 128K",
-                "credit": "Wikimedia Commons"
+                "url": "https://photos5.appleinsider.com/gallery/35159-93290-000-lead-Steve-Jobs-xl.jpg",
+                "caption": "Steve Jobs with the original Macintosh, 8 years after Apple's founding.",
+                "credit": "Apple Insider"
             }
         },
         {
@@ -55,36 +55,40 @@
                 "text": "Following a power struggle, Steve Jobs resigns from Apple and founds NeXT Inc."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Steve_Jobs_with_the_Apple_Macintosh_Computer%2C_circa_1984.tiff",
-                "caption": "Steve Jobs with a Macintosh",
-                "credit": "Wikimedia Commons"
+                "url": "https://www.financetwitter.com/wp-content/uploads/2014/08/Steve-Jobs-The-Fall-from-Apple-1985.jpg",
+                "caption": "Steve Jobs leaves Apple and starts NeXT, his own computer company.",
+                "credit": "Fortune, Newsweek"
             }
         },
         {
             "start_date": {
-                "year": "1996"
+                 "year": "1996",
+                "month": "12",
+                "day": "20" 
             },
             "text": {
                 "headline": "Apple Acquires NeXT, Jobs Returns",
                 "text": "Apple acquires NeXT Inc., bringing Steve Jobs back and setting the foundation for macOS."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nextcube-first-webserver.jpg",
-                "caption": "NeXT Computer",
-                "credit": "Wikimedia Commons"
+                "url": "https://photos5.appleinsider.com/gallery/34457-62162-merger122111-xl.jpg",
+                "caption": "Apple merged with NeXT Computer and Jobs returned to Apple.",
+                "credit": "Apple Insider"
             }
         },
         {
             "start_date": {
-                "year": "2001"
+                "year": "2001",
+                "month": "3",
+                "day": "24"
             },
             "text": {
                 "headline": "Mac OS X Released",
                 "text": "Apple launches Mac OS X, based on NeXTSTEP and Unix, with the new Aqua interface."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/MacOS_Sierra_wordmark.svg",
-                "caption": "Mac OS X Logo",
+                "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/MacOSX10-0screenshot.png",
+                "caption": "Mac OS X 10.0 Cheetah desktop.",
                 "credit": "Wikimedia Commons"
             }
         },
@@ -99,9 +103,9 @@
                 "text": "Apple revolutionizes music with the iPod, allowing 1,000 songs in your pocket."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ipod_firstgen.png",
-                "caption": "First-Generation iPod",
-                "credit": "Wikimedia Commons"
+                "url": "https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_828,q_auto/images/panoramic/getty_2847785_bupsas.jpg",
+                "caption": "Steve Jobs introduces the iPod, 2001",
+                "credit": "Getty Images"
             }
         },
         {
