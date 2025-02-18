@@ -55,7 +55,7 @@
                 "text": "Following a power struggle, Steve Jobs resigns from Apple and founds NeXT Inc."
             },
             "media": {
-                "url": "https://www.financetwitter.com/wp-content/uploads/2014/08/Steve-Jobs-The-Fall-from-Apple-1985.jpg",
+                "url": "https://allaboutstevejobs.com/blog/wp-content/uploads/2010/09/1985-Newsweek.jpg",
                 "caption": "Steve Jobs leaves Apple and starts NeXT, his own computer company.",
                 "credit": "Fortune, Newsweek"
             }
@@ -119,9 +119,9 @@
                 "text": "Apple reinvents the smartphone with the iPhone, featuring a touchscreen and internet capabilities."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/IPhone_2G_PSD_Mock.png",
-                "caption": "Original iPhone",
-                "credit": "Wikimedia Commons"
+                "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/newspress-collage-25288920-1673246153542.jpg",
+                "caption": "Steve Jobs presents the original iPhone in 2007.",
+                "credit": "AP"
             }
         },
         {
@@ -135,9 +135,9 @@
                 "text": "The App Store opens with 500 apps, creating a new mobile software ecosystem."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/App_Store_logo.svg",
-                "caption": "Apple App Store Logo",
-                "credit": "Wikimedia Commons"
+                "url": "https://www.apple.com/newsroom/images/product/app-store/App_Store_10th_anniversary_iPhone_first_gen_07102018_inline.jpg.large.jpg",
+                "caption": "Apple App Store",
+                "credit": "Apple"
             }
         },
         {
@@ -151,9 +151,9 @@
                 "text": "Apple launches iCloud, enabling cloud-based storage and synchronization across Apple devices."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/ICloud_logo.svg",
-                "caption": "iCloud Logo",
-                "credit": "Wikimedia Commons"
+                "url": "https://www.cultofmac.com/wp-content/uploads/2016/10/maxresdefault.jpg",
+                "caption": "Steve Jobs called iCloud Apple's 'hard disk in the sky'.",
+                "credit": "Apple"
             }
         },
         {
@@ -165,9 +165,9 @@
                 "text": "Apple rebrands OS X to macOS and adds Siri integration."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/en/4/45/MacOSSierraDesktop.png",
-                "caption": "macOS Sierra Desktop",
-                "credit": "Wikimedia Commons"
+                "url": "https://media.cnn.com/api/v1/images/stellar/prod/111004090302-siri-iphone-4s.jpg",
+                "caption": "Apple introduced Siri as part of macOS Sierra Desktop",
+                "credit": "Apple"
             }
         },
         {
@@ -176,12 +176,12 @@
             },
             "text": {
                 "headline": "Apple Silicon Transition Begins",
-                "text": "Apple announces its transition from Intel processors to its custom M1 chips."
+                "text": "Apple announces its transition from Intel processors to its custom M1 chips. M1 is Apple’s first chip designed specifically for the Mac and the most powerful chip it has ever created."
             },
             "media": {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Apple_M1_chip.svg",
-                "caption": "Apple M1 Chip",
-                "credit": "Wikimedia Commons"
+                "caption": "Apple M1 logo",
+                "credit": "Apple"
             }
         }
     ]
