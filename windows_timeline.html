@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Windows Timeline</title>
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; text-align: center; }
+        #timeline-embed { width: 100%; height: 600px; }
+    </style>
+</head>
+<body>
+    <h1>Windows Timeline</h1>
+    <div id="timeline-embed"></div>
+    <script>
+        var options = { start_at_end: false, default_bg_color: {r: 245, g: 245, b: 245} };
+        window.timeline = new TL.Timeline('timeline-embed', 'https://presack.github.io/os_timelines/windows_timeline.json', options);
+    </script>
+</body>
+</html>

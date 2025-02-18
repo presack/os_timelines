@@ -1,0 +1,184 @@
+{
+    "events": [
+        {
+            "start_date": {
+                "year": "1976",
+                "month": "4",
+                "day": "1"
+            },
+            "text": {
+                "headline": "Apple Computer Founded",
+                "text": "Steve Jobs, Steve Wozniak, and Ronald Wayne found Apple Computer in a garage in Cupertino, California."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+                "caption": "Apple Logo",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1977"
+            },
+            "text": {
+                "headline": "Apple II Released",
+                "text": "Apple II becomes one of the first successful personal computers with color graphics."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Apple_II_typical_configuration.JPG",
+                "caption": "Apple II Computer",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1984",
+                "month": "1",
+                "day": "24"
+            },
+            "text": {
+                "headline": "Macintosh 128K Released",
+                "text": "Apple introduces the Macintosh with a graphical user interface and mouse, revolutionizing computing."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Macintosh_128k_transparency.png",
+                "caption": "Macintosh 128K",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1985"
+            },
+            "text": {
+                "headline": "Steve Jobs Leaves Apple",
+                "text": "Following a power struggle, Steve Jobs resigns from Apple and founds NeXT Inc."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Steve_Jobs_with_the_Apple_Macintosh_Computer%2C_circa_1984.tiff",
+                "caption": "Steve Jobs with a Macintosh",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1996"
+            },
+            "text": {
+                "headline": "Apple Acquires NeXT, Jobs Returns",
+                "text": "Apple acquires NeXT Inc., bringing Steve Jobs back and setting the foundation for macOS."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nextcube-first-webserver.jpg",
+                "caption": "NeXT Computer",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2001"
+            },
+            "text": {
+                "headline": "Mac OS X Released",
+                "text": "Apple launches Mac OS X, based on NeXTSTEP and Unix, with the new Aqua interface."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/MacOS_Sierra_wordmark.svg",
+                "caption": "Mac OS X Logo",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2001",
+                "month": "10",
+                "day": "23"
+            },
+            "text": {
+                "headline": "iPod Introduced",
+                "text": "Apple revolutionizes music with the iPod, allowing 1,000 songs in your pocket."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ipod_firstgen.png",
+                "caption": "First-Generation iPod",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2007",
+                "month": "1",
+                "day": "9"
+            },
+            "text": {
+                "headline": "iPhone Released",
+                "text": "Apple reinvents the smartphone with the iPhone, featuring a touchscreen and internet capabilities."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/IPhone_2G_PSD_Mock.png",
+                "caption": "Original iPhone",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2008",
+                "month": "7",
+                "day": "10"
+            },
+            "text": {
+                "headline": "App Store Launched",
+                "text": "The App Store opens with 500 apps, creating a new mobile software ecosystem."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/App_Store_logo.svg",
+                "caption": "Apple App Store Logo",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2011",
+                "month": "10",
+                "day": "12"
+            },
+            "text": {
+                "headline": "iCloud Introduced",
+                "text": "Apple launches iCloud, enabling cloud-based storage and synchronization across Apple devices."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/ICloud_logo.svg",
+                "caption": "iCloud Logo",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2016"
+            },
+            "text": {
+                "headline": "macOS Sierra Introduces Siri",
+                "text": "Apple rebrands OS X to macOS and adds Siri integration."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/en/4/45/MacOSSierraDesktop.png",
+                "caption": "macOS Sierra Desktop",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2020"
+            },
+            "text": {
+                "headline": "Apple Silicon Transition Begins",
+                "text": "Apple announces its transition from Intel processors to its custom M1 chips."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Apple_M1_chip.svg",
+                "caption": "Apple M1 Chip",
+                "credit": "Wikimedia Commons"
+            }
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "events": [
+        {
+            "start_date": {
+                "year": "1969"
+            },
+            "text": {
+                "headline": "Creation of Unix",
+                "text": "Ken Thompson and Dennis Ritchie develop Unix at AT&T Bell Labs, laying the foundation for future operating systems."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Unix_history-simple.svg",
+                "caption": "Simplified Unix History Diagram",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1973"
+            },
+            "text": {
+                "headline": "Unix Rewritten in C",
+                "text": "Unix is rewritten in the C programming language, enhancing its portability across different machines."
+            },
+            "media": {
+                "url": "https://www.levenez.com/unix/history.html",
+                "caption": "Unix History Diagram",
+                "credit": "\u00c9ric L\u00e9v\u00e9nez"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1983"
+            },
+            "text": {
+                "headline": "Launch of the GNU Project",
+                "text": "Richard Stallman initiates the GNU Project, aiming to create a free Unix-like operating system."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Heckert_GNU_white.svg",
+                "caption": "GNU Project Logo",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1987"
+            },
+            "text": {
+                "headline": "Release of MINIX",
+                "text": "Andrew S. Tanenbaum releases MINIX, an educational Unix-like system that inspires Linus Torvalds."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Minix3.png",
+                "caption": "MINIX Operating System",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1991",
+                "month": "8",
+                "day": "25"
+            },
+            "text": {
+                "headline": "Announcement of Linux",
+                "text": "Linus Torvalds announces his project to create a free operating system kernel, which becomes Linux."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Linus_Torvalds.jpeg",
+                "caption": "Linus Torvalds",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1992"
+            },
+            "text": {
+                "headline": "Linux Under GPL",
+                "text": "Linux is relicensed under the GNU General Public License, allowing for free distribution and modification."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg",
+                "caption": "Tux, the Linux Mascot",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1994"
+            },
+            "text": {
+                "headline": "Release of Linux 1.0",
+                "text": "The first official version of the Linux kernel, version 1.0, is released."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg",
+                "caption": "Tux, the Linux Mascot",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1996"
+            },
+            "text": {
+                "headline": "Adoption of Tux as Mascot",
+                "text": "Tux, the penguin, is chosen as the official mascot for Linux."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg",
+                "caption": "Tux, the Linux Mascot",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1998"
+            },
+            "text": {
+                "headline": "Major Companies Support Linux",
+                "text": "Companies like IBM, Oracle, and others announce support for Linux, boosting its credibility in the enterprise sector."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+                "caption": "IBM Logo",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2004"
+            },
+            "text": {
+                "headline": "Release of Ubuntu",
+                "text": "Canonical Ltd. releases Ubuntu, a user-friendly Linux distribution that gains widespread popularity."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ubuntu_logo.svg",
+                "caption": "Ubuntu Logo",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2007"
+            },
+            "text": {
+                "headline": "Introduction of Android",
+                "text": "Google announces Android, a mobile operating system based on the Linux kernel."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png",
+                "caption": "Android Logo",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2011"
+            },
+            "text": {
+                "headline": "Linux Dominates Supercomputers",
+                "text": "Linux runs on over 90% of the world's top supercomputers, showcasing its performance and scalability."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg",
+                "caption": "Tux, the Linux Mascot",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2013"
+            },
+            "text": {
+                "headline": "Steam for Linux Released",
+                "text": "Valve releases a Linux version of its Steam client, expanding gaming possibilities on Linux platforms."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
+                "caption": "Steam Logo",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2017"
+            },
+            "text": {
+                "headline": "Microsoft Adds Linux to Windows",
+                "text": "Windows Subsystem for Linux (WSL) is introduced, allowing Linux to run inside Windows natively."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/WSL_logo.png",
+                "caption": "Windows Subsystem for Linux",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2020"
+            },
+            "text": {
+                "headline": "Linux Runs on 100% of Top Supercomputers",
+                "text": "All of the world's top 500 supercomputers run on Linux, highlighting its dominance in high-performance computing."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg",
+                "caption": "Tux, the Linux Mascot",
+                "credit": "Wikimedia Commons"
+            }
+        }
+    ]
+}
