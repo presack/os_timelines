@@ -9,8 +9,8 @@
                 "text": "Ken Thompson and Dennis Ritchie develop Unix at AT&T Bell Labs, laying the foundation for future operating systems."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Unix_history-simple.svg",
-                "caption": "Simplified Unix History Diagram",
+                "url": "https://historyofinformation.com/images/Screen_Shot_2020-09-19_at_7.16.21_AM_big.png",
+                "caption": "Ken Thompson (sitting) and Dennis Ritchie (standing) working together at a PDP-11 mainframe computer.",
                 "credit": "Wikimedia Commons"
             }
         },
@@ -23,9 +23,9 @@
                 "text": "Unix is rewritten in the C programming language, enhancing its portability across different machines."
             },
             "media": {
-                "url": "https://www.levenez.com/unix/history.html",
-                "caption": "Unix History Diagram",
-                "credit": "\u00c9ric L\u00e9v\u00e9nez"
+                "url": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F39s4sakkgwq21.png",
+                "caption": "Unix Thompson Shell, 1973",
+                "credit": "reddit bakk3w"
             }
         },
         {
@@ -37,9 +37,9 @@
                 "text": "Richard Stallman initiates the GNU Project, aiming to create a free Unix-like operating system."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Heckert_GNU_white.svg",
-                "caption": "GNU Project Logo",
-                "credit": "Wikimedia Commons"
+                "url": "https://lcom.static.linuxfound.org/var/uploads/Image/articles/147983-1.jpg",
+                "caption": "Richard Stallman, founder of the GNU project.",
+                "credit": "linux.com"
             }
         },
         {
