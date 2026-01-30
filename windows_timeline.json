@@ -40,7 +40,7 @@
             },
             "text": {
                 "headline": "Windows 1.0 Released",
-                "text": "Microsoft launches Windows 1.0, introducing a graphical user interface to MS-DOS users."
+                "text": "Microsoft's first step away from the command line. It introduced the mouse, 'windows' that couldn't overlap (they tiled), and the first apps like Paint and Notepad."
             },
             "media": {
                 "url": "images/Windows1.0.png",
@@ -56,12 +56,29 @@
             },
             "text": {
                 "headline": "Windows 3.1 Released",
-                "text": "Building upon its predecessor, Windows 3.1 introduces TrueType fonts and enhanced multimedia support."
+                "text": "The release that made Windows a household name. It sold 3 million copies in two months and introduced the iconic Minesweeper and Solitaire games."
             },
             "media": {
                 "url": "https://cdn-blog.adafruit.com/uploads/2022/04/Untitled-47.png",
                 "caption": "Windows 3.1 desktop with Program Manager.",
                 "credit": "Adafruit"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1995",
+                "month": "8",
+                "day": "24"
+            },
+            "group": "Consumer",
+            "text": {
+                "headline": "Windows 95: The World Starts Up",
+                "text": "Accompanied by a massive marketing campaign featuring the Rolling Stones, Windows 95 introduced the 'Start' button, the Taskbar, and long filenames. It bridged the gap between the 16-bit and 32-bit eras, forever changing how humans interact with PCs."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Windows_95_at_night.jpg",
+                "caption": "The midnight launch of Windows 95 saw lines around the block.",
+                "credit": "Microsoft / Wikimedia Commons"
             }
         },
         {
@@ -72,7 +89,7 @@
             },
             "text": {
                 "headline": "Windows XP Released",
-                "text": "Merging consumer and professional lines, Windows XP becomes renowned for its stability and user-friendly interface."
+                "text": "The 'Gold Standard' for a decade. It united the crash-prone consumer 9x series with the stable NT engine, surviving long past its intended retirement."
             },
             "media": {
                 "url": "https://images2.alphacoders.com/941/thumb-1920-941898.jpg",
@@ -88,7 +105,7 @@
             },
             "text": {
                 "headline": "Windows Vista Released",
-                "text": "Featuring the Aero graphical interface, Windows Vista emphasizes security with User Account Control."
+                "text": "Featuring the Aero graphical interface, Windows Vista emphasizes security with User Account Control. The focus on security made for a rocky user experience, but this OS actually introduced many much-needed upgrades."
             },
             "media": {
                 "url": "https://dn710407.ca.archive.org/0/items/Windows_Vista_Release_Candidate_1_Microsoft_2006/00cover.jpg",
@@ -104,7 +121,7 @@
             },
             "text": {
                 "headline": "Windows 10 Released",
-                "text": "Microsoft introduces Windows 10 with the return of the Start Menu, Cortana, and Microsoft Edge."
+                "text": "Microsoft introduces Windows 10 with the return of the Start Menu, Cortana, and Microsoft Edge. Positioned as 'the last version of Windows,' it aimed to fix the touch-heavy focus of Windows 8 by bringing back the Start menu and introducing a unified OS across devices."
             },
             "media": {
                 "url": "https://www.groovypost.com/wp-content/uploads/2016/05/microsoft-windows-10-featured.jpg",
