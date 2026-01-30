@@ -123,7 +123,7 @@
                 "text": "Windows 11 introduces a modern UI, centered Start Menu, and enhanced gaming features."
             },
             "media": {
-                "url": "https://www.microsoft.com/en-us/windows/windows-11",
+                "url": "https://cdn.mos.cms.futurecdn.net/MuRYZMnscHAFwDE4j95SU8-970-80.jpg.webp",
                 "caption": "Windows 11 desktop and Start Menu.",
                 "credit": "Microsoft"
             }
@@ -139,9 +139,9 @@
                 "text": "Windows Server 2022 enhances security, hybrid cloud support, and performance improvements."
             },
             "media": {
-                "url": "https://www.microsoft.com/en-us/windows-server",
-                "caption": "Windows Server 2022 dashboard.",
-                "credit": "Microsoft"
+                "url": "https://brytesoft.com/media/amasty/blog/cache/w/i/1074/604/windows-server-2022-brytesoft-975.png",
+                "caption": "Windows Server 2022 featured a datacenter edition",
+                "credit": "Brytesoft"
             }
         }
     ]
