@@ -76,11 +76,28 @@
                 "text": "Accompanied by a massive marketing campaign featuring the Rolling Stones, Windows 95 introduced the 'Start' button, the Taskbar, and long filenames. It bridged the gap between the 16-bit and 32-bit eras, forever changing how humans interact with PCs."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Windows_95_at_night.jpg",
-                "caption": "The midnight launch of Windows 95 saw lines around the block.",
-                "credit": "Microsoft / Wikimedia Commons"
+                "url": "images/Windows95_Launch_Australia_fromReddit.jpg",
+                "caption": "The midnight launch of Windows 95 saw lines around the block and a very excited public!",
+                "credit": "Reddit: User DynasticPrang906"
             }
         },
+        {
+                "start_date": {
+                    "year": "1998",
+                    "month": "6",
+                    "day": "25"
+                },
+                "group": "Consumer",
+                "text": {
+                    "headline": "Windows 98: Tuned for the Web",
+                    "text": "Described as 'Works Better, Plays Better,' Windows 98 was the first version designed specifically for the internet age. It introduced the 'Back' and 'Forward' navigation buttons in Explorer and significantly improved USB support, making 'Plug and Play' a reality."
+                },
+                "media": {
+                    "url": "https://winworldpc.com/screenshot/6cf17f50-3d23-11e5-8373-005056bc296d/98-2.png",
+                    "caption": "Windows 98 integrated the browser directly into the desktop experience.",
+                    "credit": "WinWorld"
+                }
+            },
         {
             "start_date": {
                 "year": "2001",
@@ -111,6 +128,40 @@
                 "url": "https://dn710407.ca.archive.org/0/items/Windows_Vista_Release_Candidate_1_Microsoft_2006/00cover.jpg",
                 "caption": "Windows Vista Release Candidate 1 DVD",
                 "credit": "Internet Archive"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2009",
+                "month": "10",
+                "day": "22"
+            },
+            "group": "Consumer",
+            "text": {
+                "headline": "Windows 7: Refined and Reliable",
+                "text": "After the struggles of Vista, Windows 7 arrived as a streamlined, faster, and more stable successor. It introduced the 'Pin' feature to the taskbar and 'Snap' for window management, becoming so beloved that many users refused to upgrade for over a decade."
+            },
+            "media": {
+                "url": "https://www.zdnet.com/a/img/resize/9202167d6055097435f3b60c0071343761899981/2012/10/24/09c99185-f370-11e2-9486-0050568f04b2/win7-final.jpg",
+                "caption": "Windows 7 combined the beauty of Aero with the speed users craved.",
+                "credit": "ZDNet"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2012",
+                "month": "10",
+                "day": "26"
+            },
+            "group": "Consumer",
+            "text": {
+                "headline": "Windows 8: The Tablet Gamble",
+                "text": "In a bold move to compete with tablets, Microsoft removed the Start Menu in favor of a full-screen 'Start Screen' with Live Tiles. The 'Metro' UI was designed for touchscreens, but the radical change alienated traditional desktop users and led to the quick release of Windows 8.1."
+            },
+            "media": {
+                "url": "https://www.howtogeek.com/wp-content/uploads/2012/10/img_508b5e5829671.png",
+                "caption": "The controversial 'Live Tile' interface of Windows 8.",
+                "credit": "How-To Geek"
             }
         },
         {
