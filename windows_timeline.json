@@ -43,7 +43,7 @@
                 "text": "Microsoft launches Windows 1.0, introducing a graphical user interface to MS-DOS users."
             },
             "media": {
-                "url": "/images/Windows1.0.png",
+                "url": "https://raw.githubusercontent.com/presack/os_timelines/refs/heads/main/images/Windows1.0.png",
                 "caption": "Screenshot of Windows 1.0 interface.",
                 "credit": "Wikimedia Commons"
             }
