@@ -17,8 +17,14 @@
             display: flex;
             justify-content: center;
             gap: 30px;
+            align-items: flex-start;
+            flex-wrap: wrap; /* allow wrapping on small screens */
         }
         .os-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 220px; /* same width so text lines up across cards */
             text-align: center;
             padding: 20px;
             background: white;
@@ -29,14 +35,40 @@
             width: 150px;
             height: auto;
             margin-bottom: 10px;
-        }
-        a {
             display: block;
+        }
+        .os-card a {
             text-decoration: none;
             font-size: 18px;
             font-weight: bold;
             color: #0073e6;
-            margin-top: 10px;
+            margin-top: 8px;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 700px) {
+            .container {
+                gap: 16px;
+            }
+            .os-card {
+                width: 180px;
+                padding: 16px;
+            }
+            img { width: 130px; }
+            .os-card a { font-size: 16px; }
+        }
+        @media (max-width: 420px) {
+            body { padding: 12px; }
+            h1 { font-size: 1.25rem; }
+            .container {
+                flex-direction: column;
+                align-items: center;
+            }
+            .os-card {
+                width: 100%;
+                max-width: 320px;
+            }
+            img { width: 120px; }
         }
     </style>
 </head>
@@ -44,16 +76,16 @@
     <h1>Operating System Timelines</h1>
     <div class="container">
         <div class="os-card">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows Logo">
+            <a href="https://presack.github.io/os_timelines/windows_timeline.html">View Windows Timeline</a>
+        </div>
+        <div class="os-card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo">
-            <a href="https://presack.github.io/os_timelines/apple_timeline.html">View Apple & macOS Timeline</a>
+            <a href="https://presack.github.io/os_timelines/apple_timeline.html">View Mac Timeline</a>
         </div>
         <div class="os-card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo">
             <a href="https://presack.github.io/os_timelines/linux_timeline.html">View Linux Timeline</a>
-        </div>
-        <div class="os-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows Logo">
-            <a href="https://presack.github.io/os_timelines/windows_timeline.html">View Windows Timeline</a>
         </div>
     </div>
 </body>
