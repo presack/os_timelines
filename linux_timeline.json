@@ -1,214 +1,171 @@
 {
     "events": [
         {
-            "start_date": {
-                "year": "1969"
-            },
+            "start_date": { "year": "1969" },
+            "group": "The Foundations",
             "text": {
-                "headline": "Creation of Unix",
-                "text": "Ken Thompson and Dennis Ritchie develop Unix at AT&T Bell Labs, laying the foundation for future operating systems."
+                "headline": "The Birth of Unix",
+                "text": "Ken Thompson and Dennis Ritchie create Unix at AT&T Bell Labs. Its philosophy of 'small, modular programs' and its file system structure would become the blueprint for Linux decades later."
             },
             "media": {
                 "url": "https://historyofinformation.com/images/Screen_Shot_2020-09-19_at_7.16.21_AM_big.png",
-                "caption": "Ken Thompson (sitting) and Dennis Ritchie (standing) working together at a PDP-11 mainframe computer.",
+                "caption": "The pioneers: Thompson and Ritchie at a PDP-11.",
                 "credit": "Wikimedia Commons"
             }
         },
         {
-            "start_date": {
-                "year": "1973"
-            },
+            "start_date": { "year": "1983", "month": "9", "day": "27" },
+            "group": "The Foundations",
             "text": {
-                "headline": "Unix Rewritten in C",
-                "text": "Unix is rewritten in the C programming language, enhancing its portability across different machines."
+                "headline": "The GNU Project Announced",
+                "text": "Richard Stallman announces the GNU Project with the goal of creating a completely free, Unix-compatible operating system. By 1991, they had almost every component ready—except for the kernel."
             },
             "media": {
-                "url": "https://presack.github.io/os_timelines/images/Thompson_Shell_1973_from_Reddit.png",
-                "caption": "Unix Thompson Shell, 1973",
-                "credit": "reddit user bakk3w"
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg",
+                "caption": "The GNU project provided the 'userland' tools that would eventually be paired with Linux.",
+                "credit": "Free Software Foundation"
             }
         },
         {
-            "start_date": {
-                "year": "1983"
-            },
+            "start_date": { "year": "1987" },
+            "group": "The Foundations",
             "text": {
-                "headline": "Launch of the GNU Project",
-                "text": "Richard Stallman initiates the GNU Project, aiming to create a free Unix-like operating system."
-            },
-            "media": {
-                "url": "https://lcom.static.linuxfound.org/var/uploads/Image/articles/147983-1.jpg",
-                "caption": "Richard Stallman, founder of the GNU project.",
-                "credit": "linux.com"
-            }
-        },
-        {
-            "start_date": {
-                "year": "1987"
-            },
-            "text": {
-                "headline": "Release of MINIX",
-                "text": "Andrew S. Tanenbaum releases MINIX, an educational Unix-like system that inspires Linus Torvalds. It was created as tool to teach OS theory before there were so many free alternatives to teach UNIX-like operating systems."
+                "headline": "MINIX Released",
+                "text": "Andrew S. Tanenbaum releases MINIX for educational use. While it wasn't fully open, it provided the sandbox where a young Linus Torvalds would first learn how an OS functions."
             },
             "media": {
                 "url": "https://presack.github.io/os_timelines/images/Is_Minix_Dead.png",
-                "caption": "MINIX may longer be maintained, but it succeeded resoundingly in achieving its goal!",
+                "caption": "The 'Teacher': MINIX sparked the curiosity of developers worldwide.",
                 "credit": "Wikimedia Commons"
             }
         },
         {
-            "start_date": {
-                "year": "1991",
-                "month": "8",
-                "day": "25"
-            },
+            "start_date": { "year": "1991", "month": "8", "day": "25" },
+            "group": "The Kernel & Community",
             "text": {
-                "headline": "Announcement of Linux",
-                "text": "Linus Torvalds announces his project to create a free operating system kernel, which becomes Linux."
+                "headline": "The Famous 'Just a Hobby' Email",
+                "text": "Linus Torvalds posts to the comp.os.minix newsgroup, announcing his new kernel. He famously noted it 'won't be big and professional like gnu,' unaware it would soon run the world."
             },
             "media": {
                 "url": "https://fossbytes.com/wp-content/uploads/2016/08/linus-torvald-first-linux-email.png",
-                "caption": "Linus Torvalds",
+                "caption": "The post that started a revolution.",
                 "credit": "Fossbytes"
             }
         },
         {
-            "start_date": {
-                "year": "1992"
-            },
+            "start_date": { "year": "1992" },
+            "group": "The Kernel & Community",
             "text": {
-                "headline": "Linux Under GPL",
-                "text": "Linux is relicensed under the GNU General Public License, allowing for free distribution and modification."
+                "headline": "Linux Adopts the GPL",
+                "text": "By moving Linux to the GNU General Public License, Linus ensured the code would remain free forever. This allowed the GNU tools and the Linux kernel to finally merge into a complete OS: GNU/Linux."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg",
-                "caption": "Tux, the Linux Mascot",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg",
+                "caption": "The GPL: The legal 'engine' of the open-source movement.",
+                "credit": "Free Software Foundation"
+            }
+        },
+        {
+            "start_date": { "year": "1993", "month": "8", "day": "16" },
+            "group": "The Distributions & Impact",
+            "text": {
+                "headline": "Debian is Founded",
+                "text": "Ian Murdock founds Debian, a project focused on being the 'universal operating system.' It would later become the foundation for Ubuntu and thousands of other projects."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debian.svg",
+                "caption": "Debian: The grandfather of modern Linux distributions.",
+                "credit": "Debian Project"
+            }
+        },
+        {
+            "start_date": { "year": "1994", "month": "3", "day": "14" },
+            "group": "The Kernel & Community",
+            "text": {
+                "headline": "Linux Kernel 1.0.0",
+                "text": "After three years of rapid development, Linux reaches version 1.0. It was now a stable, networked multitasking OS that could challenge commercial Unix systems."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Linux_kernel_1.0_source_code.png",
+                "caption": "Linux 1.0 was roughly 176,000 lines of code.",
                 "credit": "Wikimedia Commons"
             }
         },
         {
-            "start_date": {
-                "year": "1994"
-            },
+            "start_date": { "year": "1998" },
+            "group": "The Kernel & Community",
             "text": {
-                "headline": "Release of Linux 1.0",
-                "text": "The first official version of the Linux kernel, version 1.0, is released."
-            },
-            "media": {
-                "url": "https://fossbytes.com/wp-content/uploads/2016/08/linus-torvalds-first-email-message-linux-announcement.jpg",
-                "caption": "Torvalds pictured with Tux, the Linux Mascot, visible on his laptop",
-                "credit": "Wikimedia Commons"
-            }
-        },
-        {
-            "start_date": {
-                "year": "1996"
-            },
-            "text": {
-                "headline": "Adoption of Tux as Mascot",
-                "text": "Tux, the penguin, is chosen as the official mascot for Linux."
-            },
-            "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg",
-                "caption": "Tux, the Linux Mascot",
-                "credit": "Wikimedia Commons"
-            }
-        },
-        {
-            "start_date": {
-                "year": "1998"
-            },
-            "text": {
-                "headline": "Major Companies Support Linux",
-                "text": "Companies like IBM, Oracle, and others announce support for Linux, boosting its credibility in the enterprise sector."
+                "headline": "The Enterprise Pivot",
+                "text": "IBM, Oracle, and Intel announce formal support for Linux. This killed the stigma that Linux was 'just for hobbyists' and began its takeover of the server room."
             },
             "media": {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
-                "caption": "IBM Logo",
-                "credit": "Wikimedia Commons"
+                "caption": "IBM's billion-dollar investment in Linux changed the industry forever.",
+                "credit": "IBM"
             }
         },
         {
-            "start_date": {
-                "year": "2004"
-            },
+            "start_date": { "year": "2004", "month": "10", "day": "20" },
+            "group": "The Distributions & Impact",
             "text": {
-                "headline": "Release of Ubuntu",
-                "text": "Canonical Ltd. releases Ubuntu, a user-friendly Linux distribution that gains widespread popularity."
+                "headline": "Ubuntu: Linux for Human Beings",
+                "text": "Canonical releases Ubuntu 4.10 (Warty Warthog). It prioritized ease of use and a predictable release cycle, bringing Linux to millions of desktop users."
             },
             "media": {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ubuntu-desktop-2-410-20080706.png",
-                "caption": "Ubuntu 4.10, 'Warty Warthog' screenshot",
-                "credit": "Wikimedia Commons"
+                "caption": "Ubuntu's original 'brown' aesthetic focused on simplicity.",
+                "credit": "Canonical Ltd."
             }
         },
         {
-            "start_date": {
-                "year": "2007"
-            },
+            "start_date": { "year": "2007", "month": "11", "day": "5" },
+            "group": "The Distributions & Impact",
             "text": {
-                "headline": "Introduction of Android",
-                "text": "Google announces Android, a mobile operating system based on the Linux kernel."
+                "headline": "Android: Linux in Your Pocket",
+                "text": "Google announces Android. Based on the Linux kernel, it would go on to become the most-installed operating system in the world, proving Linux's incredible versatility."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png",
-                "caption": "Android Logo",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_first_Android_phone.jpg",
+                "caption": "The T-Mobile G1: The first commercial device running a Linux-based phone OS.",
                 "credit": "Wikimedia Commons"
             }
         },
         {
-            "start_date": {
-                "year": "2011"
-            },
+            "start_date": { "year": "2017" },
+            "group": "The Distributions & Impact",
             "text": {
-                "headline": "Linux Dominates Supercomputers",
-                "text": "Linux runs on over 90% of the world's top supercomputers, showcasing its performance and scalability."
-            },
-            "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg",
-                "caption": "Tux, the Linux Mascot",
-                "credit": "Wikimedia Commons"
-            }
-        },
-        {
-            "start_date": {
-                "year": "2013"
-            },
-            "text": {
-                "headline": "Steam for Linux Released",
-                "text": "Valve releases a Linux version of its Steam client, expanding gaming possibilities on Linux platforms."
-            },
-            "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
-                "caption": "Steam Logo",
-                "credit": "Wikimedia Commons"
-            }
-        },
-        {
-            "start_date": {
-                "year": "2017"
-            },
-            "text": {
-                "headline": "Microsoft Adds Linux to Windows",
-                "text": "Windows Subsystem for Linux (WSL) is introduced, allowing Linux to run inside Windows natively."
+                "headline": "The 'Impossible' Twist: WSL",
+                "text": "Microsoft releases the Windows Subsystem for Linux (WSL). After years of rivalry, the two systems merged as Microsoft embraced Linux for developers and cloud services."
             },
             "media": {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/WSL_logo.png",
-                "caption": "Windows Subsystem for Linux",
-                "credit": "Wikimedia Commons"
+                "caption": "Microsoft Loves Linux: An era-defining shift in corporate strategy.",
+                "credit": "Microsoft"
             }
         },
         {
-            "start_date": {
-                "year": "2020"
-            },
+            "start_date": { "year": "2020" },
+            "group": "The Distributions & Impact",
             "text": {
-                "headline": "Linux Runs on 100% of Top Supercomputers",
-                "text": "All of the world's top 500 supercomputers run on Linux, highlighting its dominance in high-performance computing."
+                "headline": "100% Supercomputer Dominance",
+                "text": "Linux reaches a milestone: it now powers every single one of the top 500 supercomputers on Earth. Its performance and customizability remain unmatched in high-performance computing."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg",
-                "caption": "Tux, the Linux Mascot",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Fugaku_Supercomputer_RIKEN.jpg",
+                "caption": "The Fugaku Supercomputer: Powered entirely by Linux.",
+                "credit": "RIKEN / Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": { "year": "2022", "month": "2", "day": "25" },
+            "group": "The Distributions & Impact",
+            "text": {
+                "headline": "The Steam Deck & Gaming",
+                "text": "Valve releases the Steam Deck, running a Linux-based SteamOS. Using 'Proton,' it allows thousands of Windows-native games to run flawlessly, signaling the end of the 'no games on Linux' era."
+            },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Steam_Deck_with_case.jpg",
+                "caption": "Linux is now a powerhouse in mainstream portable gaming.",
                 "credit": "Wikimedia Commons"
             }
         }
