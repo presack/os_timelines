@@ -142,9 +142,9 @@
                 "text": "After the struggles of Vista, Windows 7 arrived as a streamlined, faster, and more stable successor. It introduced the 'Pin' feature to the taskbar and 'Snap' for window management, becoming so beloved that many users refused to upgrade for over a decade."
             },
             "media": {
-                "url": "https://www.zdnet.com/a/img/resize/9202167d6055097435f3b60c0071343761899981/2012/10/24/09c99185-f370-11e2-9486-0050568f04b2/win7-final.jpg",
-                "caption": "Windows 7 combined the beauty of Aero with the speed users craved.",
-                "credit": "ZDNet"
+                "url": "images/Windows7_Image_fromTheGuardian.png",
+                "caption": "If Vista was an ambitious experiment, Windows 7 was the polished result. It kept the innovation but removed the friction, quickly becoming the gold standard for desktop computing for the next decade.",
+                "credit": "The Guardian"
             }
         },
         {
@@ -159,7 +159,7 @@
                 "text": "In a bold move to compete with tablets, Microsoft removed the Start Menu in favor of a full-screen 'Start Screen' with Live Tiles. The 'Metro' UI was designed for touchscreens, but the radical change alienated traditional desktop users and led to the quick release of Windows 8.1."
             },
             "media": {
-                "url": "https://www.howtogeek.com/wp-content/uploads/2012/10/img_508b5e5829671.png",
+                "url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Windows_8_Start_Screen.png",
                 "caption": "The controversial 'Live Tile' interface of Windows 8.",
                 "credit": "How-To Geek"
             }
