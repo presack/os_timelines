@@ -17,24 +17,31 @@
             display: flex;
             justify-content: center;
             gap: 30px;
-            align-items: flex-start;
-            flex-wrap: wrap; /* allow wrapping on small screens */
+            /* Changed from flex-start to stretch */
+            align-items: stretch; 
+            flex-wrap: wrap;
+            max-width: 1000px;
+            margin: 0 auto;
         }
         .os-card {
             display: flex;
             flex-direction: column;
+            /* Ensures logo is at top and link is at bottom */
+            justify-content: space-between; 
             align-items: center;
-            width: 220px; /* same width so text lines up across cards */
-            text-align: center;
+            width: 220px;
             padding: 20px;
             background: white;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         }
         img {
-            width: 150px;
-            height: auto;
-            margin-bottom: 10px;
+            /* Fixed height ensures all logo containers are identical */
+            width: 100%;
+            height: 120px; 
+            margin-bottom: 15px;
+            /* Prevents logos from stretching/distorting */
+            object-fit: contain; 
             display: block;
         }
         .os-card a {
@@ -42,33 +49,23 @@
             font-size: 18px;
             font-weight: bold;
             color: #0073e6;
-            margin-top: 8px;
+            margin-top: auto; /* Pushes link to the bottom of the card */
+            padding-top: 10px;
         }
 
         /* Responsive adjustments */
         @media (max-width: 700px) {
-            .container {
-                gap: 16px;
-            }
-            .os-card {
-                width: 180px;
-                padding: 16px;
-            }
-            img { width: 130px; }
+            .container { gap: 16px; }
+            .os-card { width: 180px; padding: 16px; }
+            img { height: 100px; }
             .os-card a { font-size: 16px; }
         }
         @media (max-width: 420px) {
             body { padding: 12px; }
             h1 { font-size: 1.25rem; }
-            .container {
-                flex-direction: column;
-                align-items: center;
-            }
-            .os-card {
-                width: 100%;
-                max-width: 320px;
-            }
-            img { width: 120px; }
+            .container { flex-direction: column; align-items: center; }
+            .os-card { width: 100%; max-width: 320px; }
+            img { height: 120px; }
         }
     </style>
 </head>
