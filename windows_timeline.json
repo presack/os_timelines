@@ -6,6 +6,7 @@
                 "month": "4",
                 "day": "4"
             },
+            "group": "Corporate Milestones",
             "text": {
                 "headline": "Microsoft Founded",
                 "text": "Bill Gates and Paul Allen establish Microsoft in Albuquerque, New Mexico, marking the beginning of a software giant."
@@ -22,6 +23,7 @@
                 "month": "11",
                 "day": "6"
             },
+            "group": "Corporate Milestones",
             "text": {
                 "headline": "Microsoft Partners with IBM",
                 "text": "Microsoft collaborates with IBM to develop MS-DOS, a pivotal operating system for IBM PCs."
@@ -38,6 +40,7 @@
                 "month": "11",
                 "day": "20"
             },
+            "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 1.0 Released",
                 "text": "Microsoft's first step away from the command line. It introduced the mouse, 'windows' that couldn't overlap (they tiled), and the first apps like Paint and Notepad."
@@ -54,6 +57,7 @@
                 "month": "4",
                 "day": "6"
             },
+            "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 3.1 Released",
                 "text": "The release that made Windows a household name. It sold 3 million copies in two months and introduced the iconic Minesweeper and Solitaire games."
@@ -70,7 +74,7 @@
                 "month": "8",
                 "day": "24"
             },
-            "group": "Consumer",
+            "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 95: The World Starts Up",
                 "text": "Accompanied by a massive marketing campaign featuring the Rolling Stones, Windows 95 introduced the 'Start' button, the Taskbar, and long filenames. It bridged the gap between the 16-bit and 32-bit eras, forever changing how humans interact with PCs."
@@ -82,28 +86,29 @@
             }
         },
         {
-                "start_date": {
-                    "year": "1998",
-                    "month": "6",
-                    "day": "25"
-                },
-                "group": "Consumer",
-                "text": {
-                    "headline": "Windows 98: Tuned for the Web",
-                    "text": "Described as 'Works Better, Plays Better,' Windows 98 was the first version designed specifically for the internet age. It introduced the 'Back' and 'Forward' navigation buttons in Explorer and significantly improved USB support, making 'Plug and Play' a reality."
-                },
-                "media": {
-                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQQDtdhOUi9vJybOoNcYsL6xglGrpbZEUyYY__96G4RA&s=10",
-                    "caption": "Windows 98 integrated the browser directly into the desktop experience.",
-                    "credit": "Facebook user: IGI"
-                }
+            "start_date": {
+                "year": "1998",
+                "month": "6",
+                "day": "25"
             },
+            "group": "Windows Desktop",
+            "text": {
+                "headline": "Windows 98: Tuned for the Web",
+                "text": "Described as 'Works Better, Plays Better,' Windows 98 was the first version designed specifically for the internet age. It introduced the 'Back' and 'Forward' navigation buttons in Explorer and significantly improved USB support, making 'Plug and Play' a reality."
+            },
+            "media": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQQDtdhOUi9vJybOoNcYsL6xglGrpbZEUyYY__96G4RA&s=10",
+                "caption": "Windows 98 integrated the browser directly into the desktop experience.",
+                "credit": "Facebook user: IGI"
+            }
+        },
         {
             "start_date": {
                 "year": "2001",
                 "month": "10",
                 "day": "25"
             },
+            "group": "Windows Desktop",
             "text": {
                 "headline": "Windows XP Released",
                 "text": "The 'Gold Standard' for a decade. It united the crash-prone consumer 9x series with the stable NT engine, surviving long past its intended retirement."
@@ -120,6 +125,7 @@
                 "month": "1",
                 "day": "30"
             },
+            "group": "Windows Desktop",
             "text": {
                 "headline": "Windows Vista Released",
                 "text": "Featuring the Aero graphical interface, Windows Vista emphasizes security with User Account Control. The focus on security made for a rocky user experience, but this OS actually introduced many much-needed upgrades."
@@ -136,14 +142,14 @@
                 "month": "10",
                 "day": "22"
             },
-            "group": "Consumer",
+            "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 7: Refined and Reliable",
-                "text": "After the struggles of Vista, Windows 7 arrived as a streamlined, faster, and more stable successor. It introduced the 'Pin' feature to the taskbar and 'Snap' for window management, becoming so beloved that many users refused to upgrade for over a decade."
+                "text": "After the struggles of Vista, Windows 7 arrived as a streamlined, faster, and more stable successor. It successfully blended Vista's modern aesthetics with the 'snappiness' of XP, becoming so beloved that many users refused to upgrade for over a decade."
             },
             "media": {
                 "url": "images/Windows7_Image_fromTheGuardian.png",
-                "caption": "If Vista was an ambitious experiment, Windows 7 was the polished result. It kept the innovation but removed the friction, quickly becoming the gold standard for desktop computing for the next decade.",
+                "caption": "The Guardian’s famous verdict: Windows 7 fixed the frustrations of the previous era with the stability users craved.",
                 "credit": "The Guardian"
             }
         },
@@ -153,7 +159,7 @@
                 "month": "10",
                 "day": "26"
             },
-            "group": "Consumer",
+            "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 8: The Tablet Gamble",
                 "text": "In a bold move to compete with tablets, Microsoft removed the Start Menu in favor of a full-screen 'Start Screen' with Live Tiles. The 'Metro' UI was designed for touchscreens, but the radical change alienated traditional desktop users and led to the quick release of Windows 8.1."
@@ -161,7 +167,7 @@
             "media": {
                 "url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Windows_8_Start_Screen.png",
                 "caption": "The controversial 'Live Tile' interface of Windows 8.",
-                "credit": "How-To Geek"
+                "credit": "Microsoft / Wikimedia Commons"
             }
         },
         {
@@ -170,9 +176,10 @@
                 "month": "7",
                 "day": "29"
             },
+            "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 10 Released",
-                "text": "Microsoft introduces Windows 10 with the return of the Start Menu, Cortana, and Microsoft Edge. Positioned as 'the last version of Windows,' it aimed to fix the touch-heavy focus of Windows 8 by bringing back the Start menu and introducing a unified OS across devices."
+                "text": "Microsoft introduces Windows 10 with the return of the Start Menu and a unified OS across devices. Positioned as 'the last version of Windows,' it aimed to fix the touch-heavy focus of Windows 8/8.1 while moving toward a 'Software as a Service' model."
             },
             "media": {
                 "url": "https://www.groovypost.com/wp-content/uploads/2016/05/microsoft-windows-10-featured.jpg",
@@ -186,13 +193,14 @@
                 "month": "10",
                 "day": "5"
             },
+            "group": "Windows Desktop",
             "text": {
-                "headline": "Windows 11 Released",
-                "text": "Windows 11 introduces a modern UI, centered Start Menu, and enhanced gaming features."
+                "headline": "Windows 11: The Modern Refresh",
+                "text": "Released during a global shift toward hybrid work, Windows 11 introduced a centered Taskbar, 'Snap Layouts' for multitasking, and a visual overhaul known as 'Mica' that favored rounded corners and soft translucency."
             },
             "media": {
                 "url": "https://cdn.mos.cms.futurecdn.net/MuRYZMnscHAFwDE4j95SU8-970-80.jpg.webp",
-                "caption": "Windows 11 desktop and Start Menu.",
+                "caption": "Windows 11 brought a centered Start menu—the biggest layout change since Windows 95.",
                 "credit": "Microsoft"
             }
         },
@@ -202,13 +210,14 @@
                 "month": "8",
                 "day": "18"
             },
+            "group": "Windows Server",
             "text": {
                 "headline": "Windows Server 2022 Released",
-                "text": "Windows Server 2022 enhances security, hybrid cloud support, and performance improvements."
+                "text": "Windows Server 2022 enhances security, hybrid cloud support, and performance improvements. It reflects Microsoft's massive shift toward cloud infrastructure and Azure integration."
             },
             "media": {
                 "url": "https://brytesoft.com/media/amasty/blog/cache/w/i/1074/604/windows-server-2022-brytesoft-975.png",
-                "caption": "Windows Server 2022 featured a datacenter edition",
+                "caption": "A focus on the Datacenter and the Cloud.",
                 "credit": "Brytesoft"
             }
         }
