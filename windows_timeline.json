@@ -29,7 +29,7 @@
                 "text": "Microsoft collaborates with IBM to develop MS-DOS, a pivotal operating system for IBM PCs."
             },
             "media": {
-                "url": "https://i0.wp.com/shreveportbossierjournal.com/wp-content/uploads/2025/06/IBM-PC-Running-DOS.jpg",
+                "url": "images/ibm_pc_dos.jpg",
                 "caption": "IBM's first personal computer running MS-DOS.",
                 "credit": "Shreveport Bossier Journal"
             }
@@ -63,7 +63,7 @@
                 "text": "The release that made Windows a household name. It sold 3 million copies in two months and introduced the iconic Minesweeper and Solitaire games."
             },
             "media": {
-                "url": "https://cdn-blog.adafruit.com/uploads/2022/04/Untitled-47.png",
+                "url": "images/windows_31.png",
                 "caption": "Windows 3.1 desktop with Program Manager.",
                 "credit": "Adafruit"
             }
@@ -97,7 +97,7 @@
                 "text": "Described as 'Works Better, Plays Better,' Windows 98 was the first version designed specifically for the internet age. It introduced the 'Back' and 'Forward' navigation buttons in Explorer and significantly improved USB support, making 'Plug and Play' a reality."
             },
             "media": {
-                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQQDtdhOUi9vJybOoNcYsL6xglGrpbZEUyYY__96G4RA&s=10",
+                "url": "images/windows98_desktop.webp",
                 "caption": "Windows 98 integrated the browser directly into the desktop experience.",
                 "credit": "Facebook user: IGI"
             }
@@ -114,7 +114,7 @@
                 "text": "The 'Gold Standard' for a decade. It united the crash-prone consumer 9x series with the stable NT engine, surviving long past its intended retirement."
             },
             "media": {
-                "url": "https://images2.alphacoders.com/941/thumb-1920-941898.jpg",
+                "url": "images/windows_xp_bliss.jpg",
                 "caption": "The iconic 'Bliss' wallpaper of Windows XP.",
                 "credit": "Photo by Charles O'Rear"
             }
@@ -131,7 +131,7 @@
                 "text": "Featuring the Aero graphical interface, Windows Vista emphasizes security with User Account Control. The focus on security made for a rocky user experience, but this OS actually introduced many much-needed upgrades."
             },
             "media": {
-                "url": "https://dn710407.ca.archive.org/0/items/Windows_Vista_Release_Candidate_1_Microsoft_2006/00cover.jpg",
+                "url": "images/windows_vista_dvd.jpg",
                 "caption": "Windows Vista Release Candidate 1 DVD",
                 "credit": "Internet Archive"
             }
@@ -165,7 +165,7 @@
                 "text": "In a bold move to compete with tablets, Microsoft removed the Start Menu in favor of a full-screen 'Start Screen' with Live Tiles. The 'Metro' UI was designed for touchscreens, but the radical change alienated traditional desktop users and led to the quick release of Windows 8.1."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Windows_8_Start_Screen.png",
+                "url": "images/windows_8_start.png",
                 "caption": "The controversial 'Live Tile' interface of Windows 8.",
                 "credit": "Microsoft / Wikimedia Commons"
             }
@@ -182,7 +182,7 @@
                 "text": "Microsoft introduces Windows 10 with the return of the Start Menu and a unified OS across devices. Positioned as 'the last version of Windows,' it aimed to fix the touch-heavy focus of Windows 8/8.1 while moving toward a 'Software as a Service' model."
             },
             "media": {
-                "url": "https://www.groovypost.com/wp-content/uploads/2016/05/microsoft-windows-10-featured.jpg",
+                "url": "images/windows_10_launch.jpg",
                 "caption": "Ten days before the release of Windows 10, the marketing campaign was already underway.",
                 "credit": "Groovy Post"
             }
@@ -199,7 +199,7 @@
                 "text": "Released during a global shift toward hybrid work, Windows 11 introduced a centered Taskbar, 'Snap Layouts' for multitasking, and a visual overhaul known as 'Mica' that favored rounded corners and soft translucency."
             },
             "media": {
-                "url": "https://cdn.mos.cms.futurecdn.net/MuRYZMnscHAFwDE4j95SU8-970-80.jpg.webp",
+                "url": "images/windows_11_desktop.webp",
                 "caption": "Windows 11 brought a centered Start menu—the biggest layout change since Windows 95.",
                 "credit": "Microsoft"
             }
@@ -216,7 +216,7 @@
                 "text": "Windows Server 2022 enhances security, hybrid cloud support, and performance improvements. It reflects Microsoft's massive shift toward cloud infrastructure and Azure integration."
             },
             "media": {
-                "url": "https://brytesoft.com/media/amasty/blog/cache/w/i/1074/604/windows-server-2022-brytesoft-975.png",
+                "url": "images/windows_server_2022.png",
                 "caption": "A focus on the Datacenter and the Cloud.",
                 "credit": "Brytesoft"
             }
