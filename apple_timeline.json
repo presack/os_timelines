@@ -1,186 +1,145 @@
 {
     "events": [
         {
-            "start_date": {
-                "year": "1976",
-                "month": "4",
-                "day": "1"
-            },
+            "start_date": { "year": "1976", "month": "4", "day": "1" },
+            "group": "The Garage & Early Success",
             "text": {
                 "headline": "Apple Computer Founded",
-                "text": "Steve Jobs, Steve Wozniak, and Ronald Wayne found Apple Computer in a garage in Cupertino, California."
+                "text": "Steve Jobs, Steve Wozniak, and Ronald Wayne establish Apple in a garage. While Wayne sold his share for $800 just days later, the duo of 'Woz' and Jobs would go on to ignite the personal computer revolution."
             },
             "media": {
                 "url": "https://photos5.appleinsider.com/gallery/35159-64318-000-lead-Apple-founders-xl.jpg",
-                "caption": "Apple's original founders Steve Wozniak, Steve Jobs, Ron Wayne",
+                "caption": "Wozniak, Jobs, and the early days of Apple.",
                 "credit": "Apple Insider"
             }
         },
         {
-            "start_date": {
-                "year": "1977"
-            },
+            "start_date": { "year": "1977" },
+            "group": "The Garage & Early Success",
             "text": {
-                "headline": "Apple II Released",
-                "text": "Apple II becomes one of the first successful personal computers with color graphics."
+                "headline": "Apple II: The First 'Personal' Computer",
+                "text": "The Apple II becomes a massive success, featuring color graphics and an open architecture. It was the machine that turned Apple into a real company and dominated the 8-bit era."
             },
             "media": {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Apple_II_IMG_4212.jpg",
-                "caption": "Apple II Computer",
+                "caption": "The Apple II: Color graphics for the masses.",
                 "credit": "Wikimedia Commons"
             }
         },
         {
-            "start_date": {
-                "year": "1984",
-                "month": "1",
-                "day": "24"
-            },
+            "start_date": { "year": "1984", "month": "1", "day": "24" },
+            "group": "The Garage & Early Success",
             "text": {
-                "headline": "Macintosh 128K Released",
-                "text": "Apple introduces the Macintosh with a graphical user interface and mouse, revolutionizing computing."
+                "headline": "Macintosh: 'For the Rest of Us'",
+                "text": "Introduced with a dystopian Super Bowl ad, the Macintosh was the first successful mass-market computer with a Graphical User Interface (GUI) and a mouse. It aimed to make computing intuitive rather than intimidating."
             },
             "media": {
                 "url": "https://photos5.appleinsider.com/gallery/35159-93290-000-lead-Steve-Jobs-xl.jpg",
-                "caption": "Steve Jobs with the original Macintosh, 8 years after Apple's founding.",
+                "caption": "Steve Jobs and the original Macintosh 128K.",
                 "credit": "Apple Insider"
             }
         },
         {
-            "start_date": {
-                "year": "1985"
-            },
+            "start_date": { "year": "1985" },
+            "group": "The NeXT Transition",
             "text": {
-                "headline": "Steve Jobs Leaves Apple",
-                "text": "Following a power struggle, Steve Jobs resigns from Apple and founds NeXT Inc."
+                "headline": "The Ousting of Steve Jobs",
+                "text": "Following a power struggle with CEO John Sculley, Steve Jobs resigns from Apple. He would soon found NeXT Inc., developing the advanced 'NeXTSTEP' OS that would eventually save Apple 12 years later."
             },
             "media": {
                 "url": "https://allaboutstevejobs.com/blog/wp-content/uploads/2010/09/1985-Newsweek.jpg",
-                "caption": "Steve Jobs leaves Apple and starts NeXT, his own computer company.",
-                "credit": "Fortune, Newsweek"
+                "caption": "The 'wilderness years' for Jobs began with his departure in 1985.",
+                "credit": "Newsweek"
             }
         },
         {
-            "start_date": {
-                 "year": "1996",
-                "month": "12",
-                "day": "20" 
-            },
+            "start_date": { "year": "1996", "month": "12", "day": "20" },
+            "group": "The NeXT Transition",
             "text": {
-                "headline": "Apple Acquires NeXT, Jobs Returns",
-                "text": "Apple acquires NeXT Inc., bringing Steve Jobs back and setting the foundation for macOS."
+                "headline": "Apple Acquires NeXT",
+                "text": "In a desperate move to replace the aging 'Classic' Mac OS, Apple buys NeXT for $400 million. This brings Steve Jobs back as an advisor and provides the Unix-based foundation for what would become macOS."
             },
             "media": {
                 "url": "https://photos5.appleinsider.com/gallery/34457-62162-merger122111-xl.jpg",
-                "caption": "Apple merged with NeXT Computer and Jobs returned to Apple.",
+                "caption": "The merger that saved Apple and redefined its software DNA.",
                 "credit": "Apple Insider"
             }
         },
         {
-            "start_date": {
-                "year": "2001",
-                "month": "3",
-                "day": "24"
-            },
+            "start_date": { "year": "1998", "month": "8", "day": "15" },
+            "group": "The NeXT Transition",
             "text": {
-                "headline": "Mac OS X Released",
-                "text": "Apple launches Mac OS X, based on NeXTSTEP and Unix, with the new Aqua interface."
+                "headline": "iMac G3: The 'Bondi Blue' Comeback",
+                "text": "The first major product after Jobs' return, the translucent iMac G3 abandoned the floppy drive for USB and focused on the internet. It was a massive hit that restored Apple's profitability."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/MacOSX10-0screenshot.png",
-                "caption": "Mac OS X 10.0 Cheetah desktop.",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/IMac_G3_Bondi_Blue.jpg",
+                "caption": "The iMac G3 made computers 'fun' again.",
                 "credit": "Wikimedia Commons"
             }
         },
         {
-            "start_date": {
-                "year": "2001",
-                "month": "10",
-                "day": "23"
-            },
+            "start_date": { "year": "2001", "month": "3", "day": "24" },
+            "group": "The Modern Ecosystem",
             "text": {
-                "headline": "iPod Introduced",
-                "text": "Apple revolutionizes music with the iPod, allowing 1,000 songs in your pocket."
+                "headline": "Mac OS X: The Aqua Era",
+                "text": "Apple launches Mac OS X 10.0 'Cheetah.' It merged the user-friendly Mac interface with a rock-solid Unix core, finally providing the stability and multitasking power users had craved for years."
             },
             "media": {
-                "url": "https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_828,q_auto/images/panoramic/getty_2847785_bupsas.jpg",
-                "caption": "Steve Jobs introduces the iPod, 2001",
-                "credit": "Getty Images"
+                "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/MacOSX10-0screenshot.png",
+                "caption": "The 'Aqua' interface of Mac OS X Cheetah.",
+                "credit": "Wikimedia Commons"
             }
         },
         {
-            "start_date": {
-                "year": "2007",
-                "month": "1",
-                "day": "9"
-            },
+            "start_date": { "year": "2006", "month": "1", "day": "10" },
+            "group": "The Modern Ecosystem",
             "text": {
-                "headline": "iPhone Released",
-                "text": "Apple reinvents the smartphone with the iPhone, featuring a touchscreen and internet capabilities."
+                "headline": "The Intel Transition",
+                "text": "Steve Jobs announces that Apple will abandon PowerPC processors in favor of Intel. This allowed Macs to run much faster and cooler, and even enabled them to run Windows natively via Boot Camp."
+            },
+            "media": {
+                "url": "https://www.apple.com/newsroom/images/product/mac/standard/Apple-Intel-Mac-01102006_big.jpg.large.jpg",
+                "caption": "The 'impossible' switch to Intel chips in 2006.",
+                "credit": "Apple"
+            }
+        },
+        {
+            "start_date": { "year": "2007", "month": "1", "day": "9" },
+            "group": "The Modern Ecosystem",
+            "text": {
+                "headline": "iPhone: 'OS X' in Your Pocket",
+                "text": "The original iPhone redefined mobile computing. Jobs famously stated it ran 'OS X,' highlighting that the desktop and mobile operating systems shared the same powerful foundation."
             },
             "media": {
                 "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/newspress-collage-25288920-1673246153542.jpg",
-                "caption": "Steve Jobs presents the original iPhone in 2007.",
+                "caption": "Three devices in one: a phone, an iPod, and an internet communicator.",
                 "credit": "AP"
             }
         },
         {
-            "start_date": {
-                "year": "2008",
-                "month": "7",
-                "day": "10"
-            },
+            "start_date": { "year": "2011", "month": "10", "day": "12" },
+            "group": "The Modern Ecosystem",
             "text": {
-                "headline": "App Store Launched",
-                "text": "The App Store opens with 500 apps, creating a new mobile software ecosystem."
-            },
-            "media": {
-                "url": "https://www.apple.com/newsroom/images/product/app-store/App_Store_10th_anniversary_iPhone_first_gen_07102018_inline.jpg.large.jpg",
-                "caption": "Apple App Store",
-                "credit": "Apple"
-            }
-        },
-        {
-            "start_date": {
-                "year": "2011",
-                "month": "10",
-                "day": "12"
-            },
-            "text": {
-                "headline": "iCloud Introduced",
-                "text": "Apple launches iCloud, enabling cloud-based storage and synchronization across Apple devices."
+                "headline": "iCloud: The Post-PC Vision",
+                "text": "Steve Jobs’ final major product introduction. iCloud moved the center of the user’s digital life from the Mac to the Cloud, ensuring data parity across all Apple devices automatically."
             },
             "media": {
                 "url": "https://www.cultofmac.com/wp-content/uploads/2016/10/maxresdefault.jpg",
-                "caption": "Steve Jobs called iCloud Apple's 'hard disk in the sky'.",
+                "caption": "Jobs' final 'One More Thing': iCloud.",
                 "credit": "Apple"
             }
         },
         {
-            "start_date": {
-                "year": "2016"
-            },
+            "start_date": { "year": "2020", "month": "11", "day": "10" },
+            "group": "The Modern Ecosystem",
             "text": {
-                "headline": "macOS Sierra Introduces Siri",
-                "text": "Apple rebrands OS X to macOS and adds Siri integration."
-            },
-            "media": {
-                "url": "https://media.cnn.com/api/v1/images/stellar/prod/111004090302-siri-iphone-4s.jpg",
-                "caption": "Apple introduced Siri as part of macOS Sierra Desktop",
-                "credit": "Apple"
-            }
-        },
-        {
-            "start_date": {
-                "year": "2020"
-            },
-            "text": {
-                "headline": "Apple Silicon Transition Begins",
-                "text": "Apple announces its transition from Intel processors to its custom M1 chips. M1 is Apple’s first chip designed specifically for the Mac and the most powerful chip it has ever created."
+                "headline": "Apple Silicon: Total Control",
+                "text": "Apple begins the transition from Intel to its custom-designed M1 chips. By controlling the hardware and the software, Apple achieved a massive leap in performance-per-watt, reunifying the Mac and iPhone architectures."
             },
             "media": {
                 "url": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-m1-chip-graphic_11102020_big.jpg.large.jpg",
-                "caption": "Apple M1 logo",
+                "caption": "The M1 chip: A new era for the Mac.",
                 "credit": "Apple"
             }
         }
