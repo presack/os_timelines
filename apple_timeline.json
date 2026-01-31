@@ -8,7 +8,7 @@
                 "text": "Steve Jobs, Steve Wozniak, and Ronald Wayne establish Apple in a garage. While Wayne sold his share for $800 just days later, the duo of 'Woz' and Jobs would go on to ignite the personal computer revolution."
             },
             "media": {
-                "url": "https://photos5.appleinsider.com/gallery/35159-64318-000-lead-Apple-founders-xl.jpg",
+                "url": "images/apple_founders.jpg",
                 "caption": "Wozniak, Jobs, and the early days of Apple.",
                 "credit": "Apple Insider"
             }
@@ -21,7 +21,7 @@
                 "text": "The Apple II becomes a massive success, featuring color graphics and an open architecture. It was the machine that turned Apple into a real company and dominated the 8-bit era."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Apple_II_IMG_4212.jpg",
+                "url": "images/apple_ii.jpg",
                 "caption": "The Apple II: Color graphics for the masses.",
                 "credit": "Wikimedia Commons"
             }
@@ -34,7 +34,7 @@
                 "text": "Introduced with a dystopian Super Bowl ad, the Macintosh was the first successful mass-market computer with a Graphical User Interface (GUI) and a mouse. It aimed to make computing intuitive rather than intimidating."
             },
             "media": {
-                "url": "https://photos5.appleinsider.com/gallery/35159-93290-000-lead-Steve-Jobs-xl.jpg",
+                "url": "images/mac_128k_jobs.jpg",
                 "caption": "Steve Jobs and the original Macintosh 128K.",
                 "credit": "Apple Insider"
             }
@@ -47,7 +47,7 @@
                 "text": "Following a power struggle with CEO John Sculley, Steve Jobs resigns from Apple. He would soon found NeXT Inc., developing the advanced 'NeXTSTEP' OS that would eventually save Apple 12 years later."
             },
             "media": {
-                "url": "https://allaboutstevejobs.com/blog/wp-content/uploads/2010/09/1985-Newsweek.jpg",
+                "url": "images/jobs_newsweek_1985.jpg",
                 "caption": "The 'wilderness years' for Jobs began with his departure in 1985.",
                 "credit": "Newsweek"
             }
@@ -60,7 +60,7 @@
                 "text": "In a desperate move to replace the aging 'Classic' Mac OS, Apple buys NeXT for $400 million. This brings Steve Jobs back as an advisor and provides the Unix-based foundation for what would become macOS."
             },
             "media": {
-                "url": "https://photos5.appleinsider.com/gallery/34457-62162-merger122111-xl.jpg",
+                "url": "images/apple_next_merger.jpg",
                 "caption": "The merger that saved Apple and redefined its software DNA.",
                 "credit": "Apple Insider"
             }
@@ -73,7 +73,7 @@
                 "text": "The first major product after Jobs' return, the translucent iMac G3 abandoned the floppy drive for USB and focused on the internet. It was a massive hit that restored Apple's profitability."
             },
             "media": {
-                "url": "https://mydesignlife.com/dev/wp-content/uploads/2014/06/iMac-1024x704.png",
+                "url": "images/imac_g3_bondi.png",
                 "caption": "The iMac G3 made computers 'fun' again.",
                 "credit": "My Design Life"
             }
@@ -86,7 +86,7 @@
                 "text": "Apple launches Mac OS X 10.0 'Cheetah.' It merged the user-friendly Mac interface with a rock-solid Unix core, finally providing the stability and multitasking power users had craved for years."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/MacOSX10-0screenshot.png",
+                "url": "images/macosx_cheetah.png",
                 "caption": "The 'Aqua' interface of Mac OS X Cheetah.",
                 "credit": "Wikimedia Commons"
             }
@@ -99,7 +99,7 @@
                 "text": "Steve Jobs announces that Apple will abandon PowerPC processors in favor of Intel. This allowed Macs to run much faster and cooler, and even enabled them to run Windows natively via Boot Camp."
             },
             "media": {
-                "url": "https://i0.wp.com/macdailynews.com/wp-content/uploads/2014/01/140117_steve_jobs_intel.jpg?w=550&ssl=1",
+                "url": "images/intel_transition.jpg",
                 "caption": "The 'impossible' switch to Intel chips in 2006.",
                 "credit": "Mac Daily News"
             }
@@ -112,7 +112,7 @@
                 "text": "The original iPhone redefined mobile computing. Jobs famously stated it ran 'OS X,' highlighting that the desktop and mobile operating systems shared the same powerful foundation."
             },
             "media": {
-                "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/newspress-collage-25288920-1673246153542.jpg",
+                "url": "images/iphone_launch.jpg",
                 "caption": "Three devices in one: a phone, an iPod, and an internet communicator.",
                 "credit": "AP"
             }
@@ -125,7 +125,7 @@
                 "text": "Steve Jobs’ final major product introduction. iCloud moved the center of the user’s digital life from the Mac to the Cloud, ensuring data parity across all Apple devices automatically."
             },
             "media": {
-                "url": "https://www.cultofmac.com/wp-content/uploads/2016/10/maxresdefault.jpg",
+                "url": "images/icloud_launch.jpg",
                 "caption": "Jobs' final 'One More Thing': iCloud.",
                 "credit": "Apple"
             }
@@ -138,7 +138,7 @@
                 "text": "Apple begins the transition from Intel to its custom-designed M1 chips. By controlling the hardware and the software, Apple achieved a massive leap in performance-per-watt, reunifying the Mac and iPhone architectures."
             },
             "media": {
-                "url": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-m1-chip-graphic_11102020_big.jpg.large.jpg",
+                "url": "images/apple_m1_chip.jpg",
                 "caption": "The M1 chip: A new era for the Mac.",
                 "credit": "Apple"
             }
