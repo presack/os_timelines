@@ -70,10 +70,10 @@
             "group": "The Distributions & Impact",
             "text": {
                 "headline": "Debian is Founded",
-                "text": "Ian Murdock founds Debian, a project focused on being the 'universal operating system.' It would later become the foundation for Ubuntu and thousands of other projects."
+                "text": "Ian Murdock founds Debian, a project focused on being the 'universal operating system.' It would later become the foundation for Ubuntu and thousands of other projects. Murdock also created apt-get."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debian.svg",
+                "url": "https://www.linux-distros.com/wp-content/uploads/2019/02/Debian-1.3.png",
                 "caption": "Debian: The grandfather of modern Linux distributions.",
                 "credit": "Debian Project"
             }
@@ -86,8 +86,8 @@
                 "text": "After three years of rapid development, Linux reaches version 1.0. It was now a stable, networked multitasking OS that could challenge commercial Unix systems."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Linux_kernel_1.0_source_code.png",
-                "caption": "Linux 1.0 was roughly 176,000 lines of code.",
+                "url": "https://assets.lulu.com/cover_thumbs/1/v/1v8wjvz-front-shortedge-384.jpg",
+                "caption": "Linux 1.0 was roughly 176,000 lines of code. It is actually available as a book!",
                 "credit": "Wikimedia Commons"
             }
         },
@@ -125,9 +125,9 @@
                 "text": "Google announces Android. Based on the Linux kernel, it would go on to become the most-installed operating system in the world, proving Linux's incredible versatility."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_first_Android_phone.jpg",
+                "url": "https://www.cnet.com/a/img/resize/2cfaca6fc65071540e40209ec533782e728600ca/hub/2018/09/18/8a1f93d2-77d2-4f1f-91d2-833994f5c6e4/android-t-mobile-g1-2792-002.jpg?auto=webp&width=768",
                 "caption": "The T-Mobile G1: The first commercial device running a Linux-based phone OS.",
-                "credit": "Wikimedia Commons"
+                "credit": "CNET"
             }
         },
         {
@@ -138,7 +138,7 @@
                 "text": "Microsoft releases the Windows Subsystem for Linux (WSL). After years of rivalry, the two systems merged as Microsoft embraced Linux for developers and cloud services."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/WSL_logo.png",
+                "url": "https://www.infoworld.com/wp-content/uploads/2024/06/100515-microsoft-linux-100619799-orig.jpg?quality=50&strip=all",
                 "caption": "Microsoft Loves Linux: An era-defining shift in corporate strategy.",
                 "credit": "Microsoft"
             }
@@ -151,9 +151,9 @@
                 "text": "Linux reaches a milestone: it now powers every single one of the top 500 supercomputers on Earth. Its performance and customizability remain unmatched in high-performance computing."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Fugaku_Supercomputer_RIKEN.jpg",
+                "url": "https://spectrum.ieee.org/media-library/photograph-of-japanese-supercomputer-fugaku.jpg?id=25591963&width=2400&height=998",
                 "caption": "The Fugaku Supercomputer: Powered entirely by Linux.",
-                "credit": "RIKEN / Wikimedia Commons"
+                "credit": "RIKEN / IEEE"
             }
         },
         {
@@ -164,9 +164,9 @@
                 "text": "Valve releases the Steam Deck, running a Linux-based SteamOS. Using 'Proton,' it allows thousands of Windows-native games to run flawlessly, signaling the end of the 'no games on Linux' era."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Steam_Deck_with_case.jpg",
+                "url": "https://cdn.mos.cms.futurecdn.net/DBMgQk5XQFSfmU8QyY6c69-1920-80.jpg.webp",
                 "caption": "Linux is now a powerhouse in mainstream portable gaming.",
-                "credit": "Wikimedia Commons"
+                "credit": "PC Gamer"
             }
         }
     ]
