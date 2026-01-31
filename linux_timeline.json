@@ -34,7 +34,7 @@
                 "text": "Andrew S. Tanenbaum releases MINIX for educational use. While it wasn't fully open, it provided the sandbox where a young Linus Torvalds would first learn how an OS functions."
             },
             "media": {
-                "url": "https://presack.github.io/os_timelines/images/Is_Minix_Dead.png",
+                "url": "images/Is_Minix_Dead.png",
                 "caption": "The 'Teacher': MINIX sparked the curiosity of developers worldwide.",
                 "credit": "Wikimedia Commons"
             }
@@ -60,7 +60,7 @@
                 "text": "By moving Linux to the GNU General Public License, Linus ensured the code would remain free forever. This allowed the GNU tools and the Linux kernel to finally merge into a complete OS: GNU/Linux."
             },
             "media": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg",
+                "url": "images/gpl_logo.svg",
                 "caption": "The GPL: The legal 'engine' of the open-source movement.",
                 "credit": "Free Software Foundation"
             }
