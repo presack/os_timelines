@@ -1,11 +1,7 @@
 {
     "events": [
         {
-            "start_date": {
-                "year": "1975",
-                "month": "4",
-                "day": "4"
-            },
+            "start_date": { "year": "1975", "month": "4", "day": "4" },
             "group": "Corporate Milestones",
             "text": {
                 "headline": "Microsoft Founded",
@@ -18,11 +14,7 @@
             }
         },
         {
-            "start_date": {
-                "year": "1980",
-                "month": "11",
-                "day": "6"
-            },
+            "start_date": { "year": "1980", "month": "11", "day": "6" },
             "group": "Corporate Milestones",
             "text": {
                 "headline": "Microsoft Partners with IBM",
@@ -35,11 +27,7 @@
             }
         },
         {
-            "start_date": {
-                "year": "1985",
-                "month": "11",
-                "day": "20"
-            },
+            "start_date": { "year": "1985", "month": "11", "day": "20" },
             "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 1.0 Released",
@@ -52,11 +40,7 @@
             }
         },
         {
-            "start_date": {
-                "year": "1992",
-                "month": "4",
-                "day": "6"
-            },
+            "start_date": { "year": "1992", "month": "4", "day": "6" },
             "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 3.1 Released",
@@ -69,11 +53,7 @@
             }
         },
         {
-            "start_date": {
-                "year": "1995",
-                "month": "8",
-                "day": "24"
-            },
+            "start_date": { "year": "1995", "month": "8", "day": "24" },
             "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 95: The World Starts Up",
@@ -86,11 +66,7 @@
             }
         },
         {
-            "start_date": {
-                "year": "1998",
-                "month": "6",
-                "day": "25"
-            },
+            "start_date": { "year": "1998", "month": "6", "day": "25" },
             "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 98: Tuned for the Web",
@@ -103,11 +79,7 @@
             }
         },
         {
-            "start_date": {
-                "year": "2001",
-                "month": "10",
-                "day": "25"
-            },
+            "start_date": { "year": "2001", "month": "10", "day": "25" },
             "group": "Windows Desktop",
             "text": {
                 "headline": "Windows XP Released",
@@ -120,11 +92,33 @@
             }
         },
         {
-            "start_date": {
-                "year": "2007",
-                "month": "1",
-                "day": "30"
+            "start_date": { "year": "2002", "month": "1", "day": "15" },
+            "group": "Corporate Milestones",
+            "text": {
+                "headline": "The Trustworthy Computing Memo",
+                "text": "Following the devastating Code Red and Nimda worm attacks, Bill Gates issues a company-wide mandate. He declares that security must be Microsoft's highest priority, even if it means delaying new features—a memo that fundamentally changed how Windows was built."
             },
+            "media": {
+                "url": "images/trustworthy_memo.webp",
+                "caption": "The memo marked a pivot from 'features first' to 'security first.'",
+                "credit": "Windows Central"
+            }
+        },
+        {
+            "start_date": { "year": "2003", "month": "4", "day": "24" },
+            "group": "Windows Server",
+            "text": {
+                "headline": "Windows Server 2003 Released",
+                "text": "The first OS released under the new security mandate. It was 'Secured by Design,' with most risky services turned off by default. It became the reliable backbone of the corporate internet for over a decade."
+            },
+            "media": {
+                "url": "images/windows_server_2003.png",
+                "caption": "Windows Server 2003 emphasized stability and reduced attack surface.",
+                "credit": "Wikimedia Commons - Microsoft"
+            }
+        },
+        {
+            "start_date": { "year": "2007", "month": "1", "day": "30" },
             "group": "Windows Desktop",
             "text": {
                 "headline": "Windows Vista Released",
@@ -137,11 +131,7 @@
             }
         },
         {
-            "start_date": {
-                "year": "2009",
-                "month": "10",
-                "day": "22"
-            },
+            "start_date": { "year": "2009", "month": "10", "day": "22" },
             "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 7: Refined and Reliable",
@@ -154,11 +144,7 @@
             }
         },
         {
-            "start_date": {
-                "year": "2012",
-                "month": "10",
-                "day": "26"
-            },
+            "start_date": { "year": "2012", "month": "10", "day": "26" },
             "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 8: The Tablet Gamble",
@@ -171,11 +157,20 @@
             }
         },
         {
-            "start_date": {
-                "year": "2015",
-                "month": "7",
-                "day": "29"
+            "start_date": { "year": "2014", "month": "4", "day": "8" },
+            "group": "Windows Desktop",
+            "text": {
+                "headline": "The Retirement of Windows XP",
+                "text": "After 12.5 years, Microsoft officially ended support for XP. Its retirement was delayed multiple times because the OS remained so popular in critical infrastructure like ATMs and hospitals that the world simply wasn't ready to let go."
             },
+            "media": {
+                "url": "images/XP_baseball.png",
+                "caption": "The end of an era: Windows XP support finally concludes.",
+                "credit": "Retro Tech Dreams - X account"
+            }
+        },
+        {
+            "start_date": { "year": "2015", "month": "7", "day": "29" },
             "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 10 Released",
@@ -188,11 +183,20 @@
             }
         },
         {
-            "start_date": {
-                "year": "2021",
-                "month": "10",
-                "day": "5"
+            "start_date": { "year": "2016", "month": "9", "day": "26" },
+            "group": "Windows Server",
+            "text": {
+                "headline": "Windows Server 2016: The Cloud Pivot",
+                "text": "This release introduced Windows Containers and the 'Nano Server'—a tiny, headless version of Windows. It marked the moment Windows Server fully embraced the DevOps and cloud-native era."
             },
+            "media": {
+                "url": "images/Server16_Containers_ComputerWorld.png",
+                "caption": "Server 2016 brought containerization to the Windows ecosystem.",
+                "credit": "Computer World"
+            }
+        },
+        {
+            "start_date": { "year": "2021", "month": "10", "day": "5" },
             "group": "Windows Desktop",
             "text": {
                 "headline": "Windows 11: The Modern Refresh",
@@ -205,11 +209,7 @@
             }
         },
         {
-            "start_date": {
-                "year": "2021",
-                "month": "8",
-                "day": "18"
-            },
+            "start_date": { "year": "2021", "month": "8", "day": "18" },
             "group": "Windows Server",
             "text": {
                 "headline": "Windows Server 2022 Released",
