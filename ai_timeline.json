@@ -4,8 +4,8 @@
             "start_date": { "year": "1943" },
             "group": "The Theoretical Dawn",
             "text": {
-                "headline": "The First Artificial Neuron",
-                "text": "Warren McCulloch and Walter Pitts present a mathematical model of biological neurons. This proved that simple networked units could perform logic functions, laying the groundwork for neural networks."
+                "headline": "The Birth of the Artificial Neuron",
+                "text": "Warren McCulloch and Walter Pitts published 'A Logical Calculus of the Ideas Immanent in Nervous Activity.' By creating a mathematical model of a biological neuron, they proved that even simple networks could compute any logical function, providing the theoretical foundation for all modern neural networks."
             },
             "media": {
                 "url": "images/McCulloch_Pitts_1949.png",
@@ -17,8 +17,8 @@
             "start_date": { "year": "1950", "month": "10" },
             "group": "The Theoretical Dawn",
             "text": {
-                "headline": "The Turing Test",
-                "text": "Alan Turing proposes a test for machine intelligence: if a machine can fool a human into thinking it is human during conversation, it possesses intelligence."
+                "headline": "Computing Machinery and Intelligence",
+                "text": "Alan Turing published his seminal paper proposing the 'Imitation Game.' Rather than asking 'Can machines think?', he proposed a functional test: if a human evaluator cannot reliably distinguish a machine from a human through text conversation, the machine is said to exhibit intelligent behavior."
             },
             "media": {
                 "url": "images/alan_turing.jpg",
@@ -30,8 +30,8 @@
             "start_date": { "year": "1956", "month": "6" },
             "group": "The Theoretical Dawn",
             "text": {
-                "headline": "The Term 'Artificial Intelligence'",
-                "text": "John McCarthy coins the term 'Artificial Intelligence' at the Dartmouth Workshop, officially launching the field as a dedicated branch of science and engineering."
+                "headline": "The Dartmouth Workshop",
+                "text": "John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon organized a summer research project where the term 'Artificial Intelligence' was first coined. The workshop established AI as a distinct academic field, predicated on the belief that every aspect of learning or intelligence can be precisely described and simulated by a machine."
             },
             "media": {
                 "url": "images/john_mccarthy.jpg",
@@ -43,8 +43,8 @@
             "start_date": { "year": "1961" },
             "group": "Early Robotics & Logic",
             "text": {
-                "headline": "Unimate: The First Industrial Robot",
-                "text": "General Motors installs the Unimate robotic arm to replace humans in dangerous assembly tasks, marking the birth of industrial robotics."
+                "headline": "Unimate: Robotics Hits the Assembly Line",
+                "text": "The first industrial robot, Unimate, joined the General Motors assembly line in New Jersey. Controlled by a magnetic drum, the 4,000-pound arm performed dangerous tasks like die-casting and welding, marking the first time AI-adjacent automation fundamentally transformed global manufacturing."
             },
             "media": {
                 "url": "images/Unimate_Drink_Service.webp",
@@ -56,8 +56,8 @@
             "start_date": { "year": "1964" },
             "group": "Early Robotics & Logic",
             "text": {
-                "headline": "ELIZA: Natural Language Processing",
-                "text": "Joseph Weizenbaum develops ELIZA, the first program capable of simulating human conversation via a 'psychotherapist' script."
+                "headline": "ELIZA: The First Chatbot",
+                "text": "Joseph Weizenbaum created ELIZA at MIT to explore Natural Language Processing. Its 'DOCTOR' script simulated a Rogerian psychotherapist by reflecting user input back as questions. Despite its simplicity, ELIZA famously demonstrated how easily humans attribute human-like emotions to machines—a phenomenon now known as the 'ELIZA Effect.'"
             },
             "media": {
                 "url": "images/eliza_chat.png",
@@ -69,8 +69,8 @@
             "start_date": { "year": "1966" },
             "group": "Early Robotics & Logic",
             "text": {
-                "headline": "Shakey the Robot",
-                "text": "The first general-purpose mobile robot capable of reasoning about its own actions and navigating its environment."
+                "headline": "Shakey: The First 'Reasoning' Robot",
+                "text": "Developed at SRI International, Shakey was the first mobile robot to combine computer vision with natural language processing and problem-solving. It could break down complex commands (like 'push the block off the platform') into a series of smaller, logical steps to navigate its environment."
             },
             "media": {
                 "url": "images/SRI_Shakey_robot,_1969,_Computer_History_Museum.jpg",
@@ -84,7 +84,7 @@
             "group": "The AI Winter",
             "text": {
                 "headline": "The AI Winter",
-                "text": "A period of reduced funding and interest in AI research after several high-profile projects failed to meet over-ambitious expectations."
+                "text": "Following the 1966 ALPAC report and the 1973 Lighthill Report, AI research entered cycles of deep skepticism. Funding collapsed as early promises of machine translation and general intelligence failed to materialize, shifting focus away from 'thinking machines' toward more specialized, rule-based 'Expert Systems.'"
             },
             "media": {
                 "url": "images/AI_Winter.webp",
@@ -96,8 +96,8 @@
             "start_date": { "year": "1997", "month": "5", "day": "11" },
             "group": "Mastery of Games",
             "text": {
-                "headline": "Deep Blue Defeats Kasparov",
-                "text": "IBM's Deep Blue beats world chess champion Garry Kasparov, proving that machines can master highly complex strategic logic."
+                "headline": "Deep Blue's Grandmaster Victory",
+                "text": "IBM’s Deep Blue defeated world champion Garry Kasparov in a six-game match. While largely relying on 'brute-force' processing power to evaluate 200 million positions per second, the victory was a landmark moment for machine logic and a major PR win for the resurgence of AI."
             },
             "media": {
                 "url": "images/deep_blue.jpg",
@@ -109,8 +109,8 @@
             "start_date": { "year": "2002" },
             "group": "Mastery of Games",
             "text": {
-                "headline": "Roomba: AI in the Home",
-                "text": "iRobot launches the Roomba, the first mass-produced robotic vacuum, capable of navigating and cleaning the home without human intervention."
+                "headline": "Roomba: Household Autonomy",
+                "text": "iRobot introduced the Roomba, representing the first successful mass-market application of autonomous robotics. Using basic sensors to map floor space and avoid obstacles, it moved AI out of labs and into millions of homes, normalizing the presence of 'smart' domestic assistants."
             },
             "media": {
                 "url": "images/Roomba_original.jpg",
@@ -122,8 +122,8 @@
             "start_date": { "year": "2011" },
             "group": "The Modern Explosion",
             "text": {
-                "headline": "Siri and Watson",
-                "text": "Apple integrates Siri into the iPhone 4S, while IBM's Watson wins Jeopardy!, demonstrating incredible progress in natural language understanding."
+                "headline": "Siri and Watson: AI Goes Mainstream",
+                "text": "2011 marked a shift toward Big Data. IBM’s Watson defeated all-time champions on Jeopardy!, demonstrating 'Question Answering' capabilities across vast datasets. Simultaneously, Apple launched Siri, making voice-controlled AI a standard feature of personal computing."
             },
             "media": {
                 "url": "images/Watson_Jepoardy.webp",
@@ -135,8 +135,8 @@
             "start_date": { "year": "2014" },
             "group": "The Modern Explosion",
             "text": {
-                "headline": "Eugene Passes the Turing Test",
-                "text": "The Eugene Goostman chatbot convinces 33% of judges that it is a human, the first program to meet the Turing Test's numerical criteria."
+                "headline": "The Eugene Goostman Controversy",
+                "text": "A chatbot portraying a 13-year-old Ukrainian boy reportedly 'passed' the Turing Test at the Royal Society by convincing 33% of judges it was human. While controversial and criticized for using a persona to excuse its errors, the event sparked a global debate on the limitations of Turing’s original criteria."
             },
             "media": {
                 "url": "images/eugene-goostman.webp",
@@ -148,8 +148,8 @@
             "start_date": { "year": "2016" },
             "group": "The Modern Explosion",
             "text": {
-                "headline": "AlphaGo Beats Lee Sedol",
-                "text": "DeepMind's AlphaGo defeats a world champion in the game of Go, which is far more complex than chess, using deep neural networks."
+                "headline": "AlphaGo and Deep Reinforcement Learning",
+                "text": "Google DeepMind’s AlphaGo defeated 18-time world champion Lee Sedol in the game of Go. Unlike Deep Blue's brute force, AlphaGo used Deep Neural Networks and reinforcement learning to master a game with more possible positions than atoms in the observable universe, signaling the dawn of the Deep Learning era."
             },
             "media": {
                 "url": "images/alphago_leesodol.png",
@@ -161,8 +161,8 @@
             "start_date": { "year": "2022", "month": "11", "day": "30" },
             "group": "Generative AI Revolution",
             "text": {
-                "headline": "OpenAI Launches ChatGPT",
-                "text": "The public release of ChatGPT brings generative AI into the mainstream, capable of nuanced conversation, coding, and creative writing."
+                "headline": "The ChatGPT Paradigm Shift",
+                "text": "OpenAI released ChatGPT, a Large Language Model (LLM) based on the Transformer architecture. Its ability to generate human-like text, write code, and assist in complex reasoning tasks triggered a global race in Generative AI, fundamentally altering the landscape of education, work, and technology."
             },
             "media": {
                 "url": "images/chatgpt_logo.svg",
