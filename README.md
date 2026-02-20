@@ -6,7 +6,7 @@ An interactive, visual history of the three major operating system families: **W
 You can view the main landing page and navigate to the individual timelines here:
 **https://presack.github.io/os_timelines/**
 
-![Project Screenshot](images/screenshot.png)
+<img width="1338" height="792" alt="image" src="https://github.com/user-attachments/assets/4e4a32c6-848e-4d33-8155-986120e10107" />
 
 ## Project Structure
 * `index.html`: The main landing page with tiles for each OS.
