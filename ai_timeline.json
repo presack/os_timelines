@@ -178,9 +178,9 @@
                 "text": "OpenAI revealed Sora, a text-to-video model capable of generating realistic, minute-long scenes with complex camera motion and multiple characters. This marked a major step toward building AI that understands and simulates the physical laws of the world."
             },
             "media": {
-                "url": "images/placeholder_sora.png",
+                "url": "images/Sora_AI_Youtube.jpg",
                 "caption": "A demonstration of AI-generated cinematic video.",
-                "credit": "Placeholder"
+                "credit": "bycloud YouTube channel"
             }
         },
         {
@@ -191,9 +191,9 @@
                 "text": "The European Union’s AI Act became the world's first comprehensive legal framework for AI. By adopting a risk-based approach—banning certain high-risk practices while regulating others—it set a global benchmark for the responsible development and governance of AI technology."
             },
             "media": {
-                "url": "images/placeholder_eu_act.png",
+                "url": "images/imm-ai-act.jpg.webp",
                 "caption": "The EU AI Act logo or legal seal.",
-                "credit": "Placeholder"
+                "credit": "cultureactioneurope.org"
             }
         },
         {
@@ -204,9 +204,9 @@
                 "text": "In 2025, the focus shifted from 'chatbots' to 'agents.' These AI systems can autonomously plan multi-step tasks, use software tools, and operate computers to achieve complex goals, moving closer to the vision of Artificial General Intelligence (AGI) through autonomous agency."
             },
             "media": {
-                "url": "images/placeholder_agents.png",
+                "url": "images/Claude_Agent_Army.png",
                 "caption": "Conceptual art of autonomous AI agents working together.",
-                "credit": "Placeholder"
+                "credit": "Julian Horsey/geeky-gadgets.com"
             }
         }
     ]
