@@ -8,9 +8,9 @@
                 "text": "Warren McCulloch and Walter Pitts present a mathematical model of biological neurons. This proved that simple networked units could perform logic functions, laying the groundwork for neural networks."
             },
             "media": {
-                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
-                "caption": "Warren McCulloch, pioneer of neural modeling.",
-                "credit": "History-Computer"
+                "url": "images/McCulloch_Pitts_1949.png",
+                "caption": "Warren McCulloch and Walter Pitts.",
+                "credit": "Jeremy Norman's HistoryofInformation.com"
             }
         },
         {
@@ -47,9 +47,9 @@
                 "text": "General Motors installs the Unimate robotic arm to replace humans in dangerous assembly tasks, marking the birth of industrial robotics."
             },
             "media": {
-                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
-                "caption": "Unimate on the GM assembly line.",
-                "credit": "NPR / GM Archive"
+                "url": "images/Unimate_Drink_Service.webp",
+                "caption": "Unimate serves drinks to Unimation cofounders Joseph Engelberger (left) and George Devol.",
+                "credit": "The Henry Ford"
             }
         },
         {
@@ -73,9 +73,9 @@
                 "text": "The first general-purpose mobile robot capable of reasoning about its own actions and navigating its environment."
             },
             "media": {
-                "url": "images/shakey_robot.jpg",
-                "caption": "Shakey at the Computer History Museum.",
-                "credit": "Computer History Museum"
+                "url": "images/SRI_Shakey_robot,_1969,_Computer_History_Museum.jpg",
+                "caption": "Shakey the Robot, circa 1969.",
+                "credit": "Wikimedia user \"The wub\""
             }
         },
         {
@@ -87,9 +87,9 @@
                 "text": "A period of reduced funding and interest in AI research after several high-profile projects failed to meet over-ambitious expectations."
             },
             "media": {
-                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
-                "caption": "Symbolic representation of the stagnation in AI funding.",
-                "credit": "Generic Archive"
+                "url": "images/AI_Winter.webp",
+                "caption": "Visual representation of the AI Winter period.",
+                "credit": "Medium user @logycco"
             }
         },
         {
@@ -113,9 +113,9 @@
                 "text": "iRobot launches the Roomba, the first mass-produced robotic vacuum, capable of navigating and cleaning the home without human intervention."
             },
             "media": {
-                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
-                "caption": "The 2002 iRobot Roomba.",
-                "credit": "iRobot"
+                "url": "images/Roomba_original.jpg",
+                "caption": "An original-generation Roomba.",
+                "credit": "© 2006 Larry D. Moore. Licensed under CC BY 4.0."
             }
         },
         {
@@ -126,9 +126,9 @@
                 "text": "Apple integrates Siri into the iPhone 4S, while IBM's Watson wins Jeopardy!, demonstrating incredible progress in natural language understanding."
             },
             "media": {
-                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
-                "caption": "Watson's Jeopardy! avatar.",
-                "credit": "TechRepublic"
+                "url": "images/Watson_Jepoardy.webp",
+                "caption": "IBM Watson competing on Jeopardy!.",
+                "credit": "New York Times"
             }
         },
         {
@@ -139,9 +139,9 @@
                 "text": "The Eugene Goostman chatbot convinces 33% of judges that it is a human, the first program to meet the Turing Test's numerical criteria."
             },
             "media": {
-                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
-                "caption": "Representing the breakthrough in computer-human mimicry.",
-                "credit": "Generic Archive"
+                "url": "images/eugene-goostman.webp",
+                "caption": "Eugene Goostman chatbot coverage.",
+                "credit": "ZDNet"
             }
         },
         {
@@ -152,9 +152,9 @@
                 "text": "DeepMind's AlphaGo defeats a world champion in the game of Go, which is far more complex than chess, using deep neural networks."
             },
             "media": {
-                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
-                "caption": "The AlphaGo program logo.",
-                "credit": "DeepMind"
+                "url": "images/alphago_leesodol.png",
+                "caption": "Lee Sedol faces AlphaGo during the 2016 match.",
+                "credit": "CNET"
             }
         },
         {
