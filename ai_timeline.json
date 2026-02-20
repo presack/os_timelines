@@ -1,0 +1,174 @@
+{
+    "events": [
+        {
+            "start_date": { "year": "1943" },
+            "group": "The Theoretical Dawn",
+            "text": {
+                "headline": "The First Artificial Neuron",
+                "text": "Warren McCulloch and Walter Pitts present a mathematical model of biological neurons. This proved that simple networked units could perform logic functions, laying the groundwork for neural networks."
+            },
+            "media": {
+                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
+                "caption": "Warren McCulloch, pioneer of neural modeling.",
+                "credit": "History-Computer"
+            }
+        },
+        {
+            "start_date": { "year": "1950", "month": "10" },
+            "group": "The Theoretical Dawn",
+            "text": {
+                "headline": "The Turing Test",
+                "text": "Alan Turing proposes a test for machine intelligence: if a machine can fool a human into thinking it is human during conversation, it possesses intelligence."
+            },
+            "media": {
+                "url": "images/alan_turing.jpg",
+                "caption": "Alan Turing's aged 16 portrait.",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": { "year": "1956", "month": "6" },
+            "group": "The Theoretical Dawn",
+            "text": {
+                "headline": "The Term 'Artificial Intelligence'",
+                "text": "John McCarthy coins the term 'Artificial Intelligence' at the Dartmouth Workshop, officially launching the field as a dedicated branch of science and engineering."
+            },
+            "media": {
+                "url": "images/john_mccarthy.jpg",
+                "caption": "John McCarthy at Stanford.",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": { "year": "1961" },
+            "group": "Early Robotics & Logic",
+            "text": {
+                "headline": "Unimate: The First Industrial Robot",
+                "text": "General Motors installs the Unimate robotic arm to replace humans in dangerous assembly tasks, marking the birth of industrial robotics."
+            },
+            "media": {
+                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
+                "caption": "Unimate on the GM assembly line.",
+                "credit": "NPR / GM Archive"
+            }
+        },
+        {
+            "start_date": { "year": "1964" },
+            "group": "Early Robotics & Logic",
+            "text": {
+                "headline": "ELIZA: Natural Language Processing",
+                "text": "Joseph Weizenbaum develops ELIZA, the first program capable of simulating human conversation via a 'psychotherapist' script."
+            },
+            "media": {
+                "url": "images/eliza_chat.png",
+                "caption": "A screenshot of an ELIZA conversation.",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": { "year": "1966" },
+            "group": "Early Robotics & Logic",
+            "text": {
+                "headline": "Shakey the Robot",
+                "text": "The first general-purpose mobile robot capable of reasoning about its own actions and navigating its environment."
+            },
+            "media": {
+                "url": "images/shakey_robot.jpg",
+                "caption": "Shakey at the Computer History Museum.",
+                "credit": "Computer History Museum"
+            }
+        },
+        {
+            "start_date": { "year": "1966" },
+            "end_date": { "year": "1997" },
+            "group": "The AI Winter",
+            "text": {
+                "headline": "The AI Winter",
+                "text": "A period of reduced funding and interest in AI research after several high-profile projects failed to meet over-ambitious expectations."
+            },
+            "media": {
+                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
+                "caption": "Symbolic representation of the stagnation in AI funding.",
+                "credit": "Generic Archive"
+            }
+        },
+        {
+            "start_date": { "year": "1997", "month": "5", "day": "11" },
+            "group": "Mastery of Games",
+            "text": {
+                "headline": "Deep Blue Defeats Kasparov",
+                "text": "IBM's Deep Blue beats world chess champion Garry Kasparov, proving that machines can master highly complex strategic logic."
+            },
+            "media": {
+                "url": "images/deep_blue.jpg",
+                "caption": "The Deep Blue supercomputer rack.",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": { "year": "2002" },
+            "group": "Mastery of Games",
+            "text": {
+                "headline": "Roomba: AI in the Home",
+                "text": "iRobot launches the Roomba, the first mass-produced robotic vacuum, capable of navigating and cleaning the home without human intervention."
+            },
+            "media": {
+                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
+                "caption": "The 2002 iRobot Roomba.",
+                "credit": "iRobot"
+            }
+        },
+        {
+            "start_date": { "year": "2011" },
+            "group": "The Modern Explosion",
+            "text": {
+                "headline": "Siri and Watson",
+                "text": "Apple integrates Siri into the iPhone 4S, while IBM's Watson wins Jeopardy!, demonstrating incredible progress in natural language understanding."
+            },
+            "media": {
+                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
+                "caption": "Watson's Jeopardy! avatar.",
+                "credit": "TechRepublic"
+            }
+        },
+        {
+            "start_date": { "year": "2014" },
+            "group": "The Modern Explosion",
+            "text": {
+                "headline": "Eugene Passes the Turing Test",
+                "text": "The Eugene Goostman chatbot convinces 33% of judges that it is a human, the first program to meet the Turing Test's numerical criteria."
+            },
+            "media": {
+                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
+                "caption": "Representing the breakthrough in computer-human mimicry.",
+                "credit": "Generic Archive"
+            }
+        },
+        {
+            "start_date": { "year": "2016" },
+            "group": "The Modern Explosion",
+            "text": {
+                "headline": "AlphaGo Beats Lee Sedol",
+                "text": "DeepMind's AlphaGo defeats a world champion in the game of Go, which is far more complex than chess, using deep neural networks."
+            },
+            "media": {
+                "url": "https://dummyimage.com/1200x675/e5e7eb/6b7280&text=Timeline+Image+Placeholder",
+                "caption": "The AlphaGo program logo.",
+                "credit": "DeepMind"
+            }
+        },
+        {
+            "start_date": { "year": "2022", "month": "11", "day": "30" },
+            "group": "Generative AI Revolution",
+            "text": {
+                "headline": "OpenAI Launches ChatGPT",
+                "text": "The public release of ChatGPT brings generative AI into the mainstream, capable of nuanced conversation, coding, and creative writing."
+            },
+            "media": {
+                "url": "images/chatgpt_logo.svg",
+                "caption": "OpenAI's ChatGPT logo.",
+                "credit": "OpenAI"
+            }
+        }
+    ]
+}
