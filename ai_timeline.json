@@ -70,7 +70,7 @@
             "group": "Early Robotics & Logic",
             "text": {
                 "headline": "Shakey: The First 'Reasoning' Robot",
-                "text": "Developed at SRI International, Shakey was the first mobile robot to combine computer vision with natural language processing and problem-solving. It could break down complex commands (like 'push the block off the platform') into a series of smaller, logical steps to navigate its environment."
+                "text": "Developed at SRI International, Shakey was the first mobile robot to combine computer vision with natural language processing and problem-solving. It could break down complex commands into a series of smaller, logical steps to navigate its environment using the A* search algorithm."
             },
             "media": {
                 "url": "images/SRI_Shakey_robot,_1969,_Computer_History_Museum.jpg",
@@ -136,7 +136,7 @@
             "group": "The Modern Explosion",
             "text": {
                 "headline": "The Eugene Goostman Controversy",
-                "text": "A chatbot portraying a 13-year-old Ukrainian boy reportedly 'passed' the Turing Test at the Royal Society by convincing 33% of judges it was human. While controversial and criticized for using a persona to excuse its errors, the event sparked a global debate on the limitations of Turing’s original criteria."
+                "text": "A chatbot portraying a 13-year-old Ukrainian boy reportedly 'passed' the Turing Test at the Royal Society. While controversial and criticized for using a persona to excuse its errors, the event sparked a global debate on whether Turing’s criteria were still a sufficient measure of intelligence."
             },
             "media": {
                 "url": "images/eugene-goostman.webp",
@@ -149,7 +149,7 @@
             "group": "The Modern Explosion",
             "text": {
                 "headline": "AlphaGo and Deep Reinforcement Learning",
-                "text": "Google DeepMind’s AlphaGo defeated 18-time world champion Lee Sedol in the game of Go. Unlike Deep Blue's brute force, AlphaGo used Deep Neural Networks and reinforcement learning to master a game with more possible positions than atoms in the observable universe, signaling the dawn of the Deep Learning era."
+                "text": "Google DeepMind’s AlphaGo defeated 18-time world champion Lee Sedol in Go. Unlike Deep Blue's brute force, AlphaGo used Deep Neural Networks and reinforcement learning to master a game with more possible positions than atoms in the observable universe, signaling the dawn of the Deep Learning era."
             },
             "media": {
                 "url": "images/alphago_leesodol.png",
@@ -162,12 +162,51 @@
             "group": "Generative AI Revolution",
             "text": {
                 "headline": "The ChatGPT Paradigm Shift",
-                "text": "OpenAI released ChatGPT, a Large Language Model (LLM) based on the Transformer architecture. Its ability to generate human-like text, write code, and assist in complex reasoning tasks triggered a global race in Generative AI, fundamentally altering the landscape of education, work, and technology."
+                "text": "OpenAI released ChatGPT, a Large Language Model (LLM) based on the Transformer architecture. Its ability to generate human-like text and code triggered a global race in Generative AI, fundamentally altering the landscape of education, work, and technology."
             },
             "media": {
                 "url": "images/chatgpt_logo.svg",
                 "caption": "OpenAI's ChatGPT logo.",
                 "credit": "OpenAI"
+            }
+        },
+        {
+            "start_date": { "year": "2024", "month": "2", "day": "15" },
+            "group": "Generative AI Revolution",
+            "text": {
+                "headline": "Sora: AI as a World Simulator",
+                "text": "OpenAI revealed Sora, a text-to-video model capable of generating realistic, minute-long scenes with complex camera motion and multiple characters. This marked a major step toward building AI that understands and simulates the physical laws of the world."
+            },
+            "media": {
+                "url": "images/placeholder_sora.png",
+                "caption": "A demonstration of AI-generated cinematic video.",
+                "credit": "Placeholder"
+            }
+        },
+        {
+            "start_date": { "year": "2024", "month": "8", "day": "1" },
+            "group": "Ethics and Governance",
+            "text": {
+                "headline": "The EU AI Act Enters Into Force",
+                "text": "The European Union’s AI Act became the world's first comprehensive legal framework for AI. By adopting a risk-based approach—banning certain high-risk practices while regulating others—it set a global benchmark for the responsible development and governance of AI technology."
+            },
+            "media": {
+                "url": "images/placeholder_eu_act.png",
+                "caption": "The EU AI Act logo or legal seal.",
+                "credit": "Placeholder"
+            }
+        },
+        {
+            "start_date": { "year": "2025" },
+            "group": "Generative AI Revolution",
+            "text": {
+                "headline": "The Rise of Agentic AI",
+                "text": "In 2025, the focus shifted from 'chatbots' to 'agents.' These AI systems can autonomously plan multi-step tasks, use software tools, and operate computers to achieve complex goals, moving closer to the vision of Artificial General Intelligence (AGI) through autonomous agency."
+            },
+            "media": {
+                "url": "images/placeholder_agents.png",
+                "caption": "Conceptual art of autonomous AI agents working together.",
+                "credit": "Placeholder"
             }
         }
     ]
