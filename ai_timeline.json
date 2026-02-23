@@ -196,6 +196,19 @@
                 "credit": "cultureactioneurope.org"
             }
         },
+{
+            "start_date": { "year": "2020", "month": "11" },
+            "group": "The Modern Explosion",
+            "text": {
+                "headline": "AlphaFold: AI Solves Biology's Grand Challenge",
+                "text": "DeepMind's AlphaFold 2 solves the 50-year-old 'protein folding problem,' predicting the 3D shapes of proteins with near-experimental accuracy. In 2022, they released 200 million structures for free, accelerating drug discovery and enzyme engineering by decades. The breakthrough led to a 2024 Nobel Prize in Chemistry for its creators."
+            },
+            "media": {
+                "url": "images/Proteins-1.jpg",
+                "caption": "AlphaFold: Mapping the building blocks of life.",
+                "credit": "MIT Technology Review"
+            }
+        },
         {
             "start_date": { "year": "2025" },
             "group": "Generative AI Revolution",
