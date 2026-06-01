@@ -40,6 +40,19 @@
             }
         },
         {
+            "start_date": { "year": "1958" },
+            "group": "The Theoretical Dawn",
+            "text": {
+                "headline": "The Perceptron: The First Machine That Could Learn",
+                "text": "Frank Rosenblatt at Cornell unveiled the Mark I Perceptron — the first machine capable of learning from experience rather than following pre-programmed rules. Wired to a 20×20 grid of photocells, it adjusted its own weighted connections to recognize simple patterns. The New York Times declared it 'the embryo of an electronic computer that the Navy expects will be able to walk, talk, see, write, reproduce itself and be conscious of its existence.' The hype outran the reality, but the core idea — a network of weighted connections that learns from data — is the direct ancestor of every neural network trained today."
+            },
+            "media": {
+                "url": "images/frank_rosenblatt.jpg",
+                "caption": "Frank Rosenblatt, inventor of the Perceptron, at Cornell.",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
             "start_date": { "year": "1961" },
             "group": "Early Robotics & Logic",
             "text": {
@@ -97,7 +110,7 @@
             "group": "Mastery of Games",
             "text": {
                 "headline": "Deep Blue's Grandmaster Victory",
-                "text": "IBM’s Deep Blue defeated world champion Garry Kasparov in a six-game match. While largely relying on 'brute-force' processing power to evaluate 200 million positions per second, the victory was a landmark moment for machine logic and a major PR win for the resurgence of AI."
+                "text": "IBM's Deep Blue defeated world champion Garry Kasparov in a six-game match. While largely relying on 'brute-force' processing power to evaluate 200 million positions per second, the victory was a landmark moment for machine logic and a major PR win for the resurgence of AI."
             },
             "media": {
                 "url": "images/deep_blue.jpg",
@@ -107,7 +120,7 @@
         },
         {
             "start_date": { "year": "2002" },
-            "group": "Mastery of Games",
+            "group": "Early Robotics & Logic",
             "text": {
                 "headline": "Roomba: Household Autonomy",
                 "text": "iRobot introduced the Roomba, representing the first successful mass-market application of autonomous robotics. Using basic sensors to map floor space and avoid obstacles, it moved AI out of labs and into millions of homes, normalizing the presence of 'smart' domestic assistants."
@@ -123,7 +136,7 @@
             "group": "The Modern Explosion",
             "text": {
                 "headline": "Siri and Watson: AI Goes Mainstream",
-                "text": "2011 marked a shift toward Big Data. IBM’s Watson defeated all-time champions on Jeopardy!, demonstrating 'Question Answering' capabilities across vast datasets. Simultaneously, Apple launched Siri, making voice-controlled AI a standard feature of personal computing."
+                "text": "2011 marked a shift toward Big Data. IBM's Watson defeated all-time champions on Jeopardy!, demonstrating 'Question Answering' capabilities across vast datasets. Simultaneously, Apple launched Siri, making voice-controlled AI a standard feature of personal computing."
             },
             "media": {
                 "url": "images/Watson_Jepoardy.webp",
@@ -132,11 +145,24 @@
             }
         },
         {
+            "start_date": { "year": "2012", "month": "9", "day": "30" },
+            "group": "The Modern Explosion",
+            "text": {
+                "headline": "AlexNet: The GPU Revolution Begins",
+                "text": "Using two consumer gaming GPUs, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton at the University of Toronto built AlexNet — a deep convolutional neural network that demolished the ImageNet visual recognition competition with a 15.3% error rate, more than 10 percentage points better than any previous method. The victory proved that deep neural networks, trained on large datasets with massive GPU power, could surpass every other approach to machine vision. Within a year, every major tech company had pivoted to deep learning, triggering the race that ultimately produced ChatGPT."
+            },
+            "media": {
+                "url": "images/alexnet_imagenet.svg",
+                "caption": "The AlexNet architecture (right) versus its predecessor LeNet (left), showing the dramatic increase in depth.",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
             "start_date": { "year": "2014" },
             "group": "The Modern Explosion",
             "text": {
                 "headline": "The Eugene Goostman Controversy",
-                "text": "A chatbot portraying a 13-year-old Ukrainian boy reportedly 'passed' the Turing Test at the Royal Society. While controversial and criticized for using a persona to excuse its errors, the event sparked a global debate on whether Turing’s criteria were still a sufficient measure of intelligence."
+                "text": "A chatbot portraying a 13-year-old Ukrainian boy reportedly 'passed' the Turing Test at the Royal Society. While controversial and criticized for using a persona to excuse its errors, the event sparked a global debate on whether Turing's criteria were still a sufficient measure of intelligence."
             },
             "media": {
                 "url": "images/eugene-goostman.webp",
@@ -149,12 +175,38 @@
             "group": "The Modern Explosion",
             "text": {
                 "headline": "AlphaGo and Deep Reinforcement Learning",
-                "text": "Google DeepMind’s AlphaGo defeated 18-time world champion Lee Sedol in Go. Unlike Deep Blue's brute force, AlphaGo used Deep Neural Networks and reinforcement learning to master a game with more possible positions than atoms in the observable universe, signaling the dawn of the Deep Learning era."
+                "text": "Google DeepMind's AlphaGo defeated 18-time world champion Lee Sedol in Go. Unlike Deep Blue's brute force, AlphaGo used Deep Neural Networks and reinforcement learning to master a game with more possible positions than atoms in the observable universe, signaling the dawn of the Deep Learning era."
             },
             "media": {
                 "url": "images/alphago_leesodol.png",
                 "caption": "Lee Sedol faces AlphaGo during the 2016 match.",
                 "credit": "CNET"
+            }
+        },
+        {
+            "start_date": { "year": "2017", "month": "6" },
+            "group": "The Modern Explosion",
+            "text": {
+                "headline": "'Attention Is All You Need': The Paper That Changed Everything",
+                "text": "Eight Google researchers published a paper describing the 'Transformer' — a neural network architecture that replaced the recurrent loops constraining all previous language models with a mechanism called 'self-attention,' allowing the model to relate any part of a sequence directly to any other part simultaneously. It was faster to train, far more scalable, and dramatically more capable. Every major AI system today — GPT, Claude, Gemini, Llama — descends directly from this architecture. The paper's understated title has become one of the most cited in computer science history."
+            },
+            "media": {
+                "url": "images/transformer_architecture.png",
+                "caption": "The original Transformer model architecture diagram from the 2017 paper, showing the encoder (left) and decoder (right).",
+                "credit": "Vaswani et al. / Wikimedia Commons (CC BY-SA 3.0)"
+            }
+        },
+        {
+            "start_date": { "year": "2020", "month": "11" },
+            "group": "The Modern Explosion",
+            "text": {
+                "headline": "AlphaFold: AI Solves Biology's Grand Challenge",
+                "text": "DeepMind's AlphaFold 2 solved the 50-year-old 'protein folding problem,' predicting the 3D shapes of proteins with near-experimental accuracy. In 2022, they released 200 million structures for free, accelerating drug discovery and enzyme engineering by decades. The breakthrough led to a 2024 Nobel Prize in Chemistry for its creators."
+            },
+            "media": {
+                "url": "images/Proteins-1.jpg",
+                "caption": "AlphaFold: Mapping the building blocks of life.",
+                "credit": "MIT Technology Review"
             }
         },
         {
@@ -188,7 +240,7 @@
             "group": "Ethics and Governance",
             "text": {
                 "headline": "The EU AI Act Enters Into Force",
-                "text": "The European Union’s AI Act became the world's first comprehensive legal framework for AI. By adopting a risk-based approach—banning certain high-risk practices while regulating others—it set a global benchmark for the responsible development and governance of AI technology."
+                "text": "The European Union's AI Act became the world's first comprehensive legal framework for AI. By adopting a risk-based approach—banning certain high-risk practices while regulating others—it set a global benchmark for the responsible development and governance of AI technology."
             },
             "media": {
                 "url": "images/imm-ai-act.jpg.webp",
@@ -196,17 +248,17 @@
                 "credit": "cultureactioneurope.org"
             }
         },
-{
-            "start_date": { "year": "2020", "month": "11" },
-            "group": "The Modern Explosion",
+        {
+            "start_date": { "year": "2024", "month": "10", "day": "7" },
+            "group": "Generative AI Revolution",
             "text": {
-                "headline": "AlphaFold: AI Solves Biology's Grand Challenge",
-                "text": "DeepMind's AlphaFold 2 solves the 50-year-old 'protein folding problem,' predicting the 3D shapes of proteins with near-experimental accuracy. In 2022, they released 200 million structures for free, accelerating drug discovery and enzyme engineering by decades. The breakthrough led to a 2024 Nobel Prize in Chemistry for its creators."
+                "headline": "A Nobel Prize for the Architects of the AI Age",
+                "text": "In a stunning validation of a field once dismissed as fringe science, the Royal Swedish Academy of Sciences awarded the 2024 Nobel Prize in Physics to John Hopfield and Geoffrey Hinton 'for foundational discoveries and inventions that enable machine learning with artificial neural networks.' Hinton, who had famously left Google the year before to speak freely about AI's existential risks, accepted the prize with a warning that AI could become smarter than humans within a decade. The award signaled that the deep learning revolution had moved from Silicon Valley into the history books."
             },
             "media": {
-                "url": "images/Proteins-1.jpg",
-                "caption": "AlphaFold: Mapping the building blocks of life.",
-                "credit": "MIT Technology Review"
+                "url": "images/hinton_nobel_2024.jpg",
+                "caption": "Geoffrey Hinton delivers his Nobel Lecture at Stockholm University, December 2024.",
+                "credit": "Jay Dixit / WikiPortraits (CC BY-SA 4.0)"
             }
         },
         {

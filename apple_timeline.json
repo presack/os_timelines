@@ -92,6 +92,19 @@
             }
         },
         {
+            "start_date": { "year": "2001", "month": "10", "day": "23" },
+            "group": "The Modern Ecosystem",
+            "text": {
+                "headline": "iPod: '1,000 Songs in Your Pocket'",
+                "text": "Announced with Jobs' simple promise of '1,000 songs in your pocket,' the iPod was dismissed by critics as overpriced at $399. They were wrong. Within three years it controlled 70% of the digital music market and transformed Apple from a struggling computer maker into a consumer electronics powerhouse. By tying the iPod to the iTunes Store in 2003, Apple reinvented the music industry and built the ecosystem model that would later define the iPhone — proving that hardware and software combined in one seamless experience was worth any price."
+            },
+            "media": {
+                "url": "images/ipod_1g.png",
+                "caption": "The original first-generation iPod, released November 10, 2001.",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
             "start_date": { "year": "2006", "month": "1", "day": "10" },
             "group": "The Modern Ecosystem",
             "text": {
@@ -118,16 +131,55 @@
             }
         },
         {
+            "start_date": { "year": "2008", "month": "7", "day": "10" },
+            "group": "The Modern Ecosystem",
+            "text": {
+                "headline": "The App Store: Inventing the App Economy",
+                "text": "Launched with 500 apps and a 70/30 revenue split in developers' favor, the App Store created an entirely new category of business: the mobile app. Jobs had initially resisted it, preferring web apps for the iPhone — he was persuaded by Phil Schiller and board member Art Levinson. The decision proved transformative: within a decade, the App Store had paid out over $100 billion to developers, created millions of jobs, and spawned entirely new industries. It also gave Apple unprecedented control over software distribution that regulators are still reckoning with today."
+            },
+            "media": {
+                "url": "images/app_store_icon.svg",
+                "caption": "The App Store icon — the gateway to a software economy Apple never originally planned.",
+                "credit": "Apple / Wikimedia Commons"
+            }
+        },
+        {
+            "start_date": { "year": "2010", "month": "1", "day": "27" },
+            "group": "The Modern Ecosystem",
+            "text": {
+                "headline": "iPad: A New Category of Device",
+                "text": "Unveiled at the Yerba Buena Center in San Francisco, the iPad arrived to nearly universal skepticism — critics called it 'just a big iPod touch.' Jobs countered that it required its own category: 'Post-PC,' in which the most important things people do each day don't require a traditional computer. He was right. The iPad's 9.7-inch touchscreen became the dominant form for reading, media consumption, and casual work, and spawned an entire tablet industry that simply did not exist before January 27, 2010."
+            },
+            "media": {
+                "url": "images/steve_jobs_ipad.jpg",
+                "caption": "Steve Jobs unveils the original iPad at Apple's January 2010 event.",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
             "start_date": { "year": "2011", "month": "10", "day": "12" },
             "group": "The Modern Ecosystem",
             "text": {
                 "headline": "iCloud: The Post-PC Vision",
-                "text": "Steve Jobs’ final major product introduction. iCloud moved the center of the user’s digital life from the Mac to the Cloud, ensuring data parity across all Apple devices automatically."
+                "text": "Steve Jobs' final major product introduction. iCloud moved the center of the user's digital life from the Mac to the Cloud, ensuring data parity across all Apple devices automatically."
             },
             "media": {
                 "url": "images/icloud_launch.jpg",
                 "caption": "Jobs' final 'One More Thing': iCloud.",
                 "credit": "Apple"
+            }
+        },
+        {
+            "start_date": { "year": "2011", "month": "10", "day": "5" },
+            "group": "The Modern Ecosystem",
+            "text": {
+                "headline": "The End of an Era: Steve Jobs, 1955–2011",
+                "text": "Steve Jobs passed away on October 5, 2011, at 56 — one day after Apple unveiled the iPhone 4S. Within hours, memorials of apples, flowers, and handwritten notes blanketed Apple Stores from Cupertino to Tokyo. Under Jobs, Apple had returned from near-bankruptcy to become the most valuable company in the world, launching the iMac, iPod, iTunes, iPhone, iPad, and App Store in a thirteen-year run unmatched in tech history. His successor, Tim Cook, would guide Apple past $3 trillion in market capitalization, but the question of who Apple is without Jobs still shapes every product decision made in Cupertino."
+            },
+            "media": {
+                "url": "images/steve_jobs_memorial.jpg",
+                "caption": "A makeshift memorial at Stanford University in Palo Alto, October 2011.",
+                "credit": "John Loo / Flickr (CC BY 2.0)"
             }
         },
         {
@@ -141,6 +193,19 @@
                 "url": "images/apple_m1_chip.jpg",
                 "caption": "The M1 chip: A new era for the Mac.",
                 "credit": "Apple"
+            }
+        },
+        {
+            "start_date": { "year": "2024", "month": "2", "day": "2" },
+            "group": "The Modern Ecosystem",
+            "text": {
+                "headline": "Vision Pro: Computing Without a Screen",
+                "text": "Announced at WWDC 2023 and released on February 2, 2024, at $3,499, the Apple Vision Pro is Apple's most ambitious hardware bet since the original iPhone. The headset introduces 'spatial computing' — merging digital windows, apps, and media directly into the user's physical environment using ultra-high-density micro-OLED displays and a novel eye-tracking input system. Internally, Apple considers it the successor to both the Mac and the iPhone. Whether Vision Pro becomes the defining computing form factor of the next decade or an expensive footnote will define Tim Cook's legacy."
+            },
+            "media": {
+                "url": "images/apple_vision_pro.jpg",
+                "caption": "A user experiencing Apple Vision Pro's spatial computing environment.",
+                "credit": "Ramsey Cardy / Collision via Sportsfile (CC BY 2.0)"
             }
         }
     ]

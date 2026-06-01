@@ -105,6 +105,19 @@
             }
         },
         {
+            "start_date": { "year": "2003", "month": "3", "day": "6" },
+            "group": "The Kernel & Community",
+            "text": {
+                "headline": "The SCO Lawsuit: Linux Put on Trial",
+                "text": "The SCO Group filed a $1 billion lawsuit against IBM claiming Linux contained stolen Unix source code, then sent threatening letters to Fortune 500 companies warning of legal liability for running Linux. The open-source community fought back, led by the legal blog Groklaw — founded by paralegal Pamela Jones — which methodically dismantled SCO's claims line by line. By 2007, federal courts ruled that SCO didn't even own the Unix copyrights it had claimed. The lawsuit failed, but its chilling effect proved Linux needed legal armor, directly accelerating the formation of the Open Invention Network to protect the ecosystem."
+            },
+            "media": {
+                "url": "images/sco_vs_ibm.jpg",
+                "caption": "A strategy meeting at The SCO Group headquarters in Linden, Utah, December 2002 — months before the lawsuit was filed.",
+                "credit": "Jonathan Schilling / Wikimedia Commons (CC BY-SA 4.0)"
+            }
+        },
+        {
             "start_date": { "year": "2004", "month": "10", "day": "20" },
             "group": "The Distributions & Impact",
             "text": {
@@ -131,6 +144,19 @@
             }
         },
         {
+            "start_date": { "year": "2012", "month": "2", "day": "29" },
+            "group": "The Distributions & Impact",
+            "text": {
+                "headline": "Raspberry Pi: Linux in Your Hands for $35",
+                "text": "The Raspberry Pi Foundation launched its credit card-sized Linux computer — intended for use in schools to teach programming and electronics. It sold out within hours. Priced at just $35, it brought a full Linux environment to students, hobbyists, and makers worldwide, becoming the best-selling British computer ever made. In classrooms, server racks, art installations, and orbital satellites, the Raspberry Pi demonstrated Linux's greatest strength: the same kernel that runs the world's supercomputers runs happily on a board the size of a credit card."
+            },
+            "media": {
+                "url": "images/raspberry_pi.jpg",
+                "caption": "The original Raspberry Pi Model B — 256MB of RAM, one USB port, and a full Linux stack.",
+                "credit": "Ayaita / Wikimedia Commons (CC BY 3.0)"
+            }
+        },
+        {
             "start_date": { "year": "2017" },
             "group": "The Distributions & Impact",
             "text": {
@@ -141,6 +167,19 @@
                 "url": "images/microsoft_loves_linux.jpg",
                 "caption": "Microsoft Loves Linux: An era-defining shift in corporate strategy.",
                 "credit": "Microsoft"
+            }
+        },
+        {
+            "start_date": { "year": "2018", "month": "9", "day": "16" },
+            "group": "The Kernel & Community",
+            "text": {
+                "headline": "The Kernel Grows Up: Code of Conduct",
+                "text": "The Linux kernel adopted the Contributor Covenant — a formal Code of Conduct — replacing the informal 'Code of Conflict.' Shortly after, creator Linus Torvalds publicly apologized for years of aggressive behavior toward contributors and stepped away temporarily to 'get some assistance on how to understand people's emotions and respond appropriately.' When he returned six weeks later with kernel 4.19, it marked a turning point: the acknowledgment that a project with tens of millions of lines of code, maintained by thousands of global contributors, needs social infrastructure, not just technical excellence."
+            },
+            "media": {
+                "url": "images/linus_coc_2018.jpeg",
+                "caption": "Linus Torvalds, the creator and lead developer of the Linux kernel.",
+                "credit": "Linux Magazine / Wikimedia Commons"
             }
         },
         {

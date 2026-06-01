@@ -53,6 +53,19 @@
             }
         },
         {
+            "start_date": { "year": "1993", "month": "7", "day": "27" },
+            "group": "Corporate Milestones",
+            "text": {
+                "headline": "Windows NT 3.1: The Architecture That Runs the World",
+                "text": "Released on July 27, 1993, Windows NT 3.1 was Microsoft's most ambitious engineering project: a completely new operating system co-designed by Dave Cutler — the architect of DEC VMS — that brought preemptive multitasking, true memory protection, and hardware portability to Windows for the first time. Though aimed at workstations and servers, its DNA runs in everything. Windows XP, Windows 7, Windows 10, Windows 11, and the Xbox all descend from the NT kernel. Microsoft shipped two parallel product lines for a decade before XP unified them in 2001, but NT was always the future."
+            },
+            "media": {
+                "url": "images/windows_nt31.png",
+                "caption": "Windows NT 3.1 desktop, running in a virtual machine — the architectural ancestor of all modern Windows.",
+                "credit": "Wikimedia Commons"
+            }
+        },
+        {
             "start_date": { "year": "1995", "month": "8", "day": "24" },
             "group": "Windows Desktop",
             "text": {
@@ -66,6 +79,19 @@
             }
         },
         {
+            "start_date": { "year": "1998", "month": "5", "day": "18" },
+            "group": "Corporate Milestones",
+            "text": {
+                "headline": "United States v. Microsoft: The Trial of the Decade",
+                "text": "The U.S. Department of Justice and 20 state attorneys general sued Microsoft for illegally maintaining its monopoly by bundling Internet Explorer with Windows to crush Netscape. Gates' videotaped deposition — in which he argued over the definitions of words like 'compete' and 'concerned' — was played in open court to audible laughter from the judge. In 2000, Judge Thomas Penfield Jackson ruled Microsoft a monopolist and ordered it broken in two. An appeals court overturned the breakup but affirmed the monopoly finding. The case defined the era and laid the legal groundwork for every Big Tech antitrust action that followed."
+            },
+            "media": {
+                "url": "images/gates_antitrust.png",
+                "caption": "Stills from Bill Gates' August 1998 videotaped deposition, which was later played in court.",
+                "credit": "U.S. Department of Justice (public domain)"
+            }
+        },
+        {
             "start_date": { "year": "1998", "month": "6", "day": "25" },
             "group": "Windows Desktop",
             "text": {
@@ -76,6 +102,19 @@
                 "url": "images/windows98_desktop.webp",
                 "caption": "Windows 98 integrated the browser directly into the desktop experience.",
                 "credit": "Reddit User: Jfonzy"
+            }
+        },
+        {
+            "start_date": { "year": "2000", "month": "9", "day": "14" },
+            "group": "Windows Desktop",
+            "text": {
+                "headline": "Windows Me: A Short, Unhappy Life",
+                "text": "Windows Millennium Edition was Microsoft's final chapter in the consumer '9x' line built on the original MS-DOS foundation. The problems were immediate: random crashes, poor driver compatibility, and a tendency to boot into recovery mode seemingly at random led PC World to rank it among the worst tech products in history. Microsoft's decision to remove access to the real-mode DOS prompt that power users depended on left the OS feeling crippled. Its silver lining: Me's spectacular failure proved the aging 9x architecture had to die, making the case for the NT-based Windows XP just thirteen months later."
+            },
+            "media": {
+                "url": "images/windows_me.png",
+                "caption": "The Windows Me desktop — a familiar face hiding a deeply troubled OS.",
+                "credit": "Wikimedia Commons"
             }
         },
         {
@@ -139,7 +178,7 @@
             },
             "media": {
                 "url": "images/Windows7_Image_fromTheGuardian.png",
-                "caption": "The Guardian’s famous verdict: Windows 7 fixed the frustrations of the previous era with the stability users craved.",
+                "caption": "The Guardian's famous verdict: Windows 7 fixed the frustrations of the previous era with the stability users craved.",
                 "credit": "The Guardian"
             }
         },
@@ -196,19 +235,6 @@
             }
         },
         {
-            "start_date": { "year": "2021", "month": "10", "day": "5" },
-            "group": "Windows Desktop",
-            "text": {
-                "headline": "Windows 11: The Modern Refresh",
-                "text": "Released during a global shift toward hybrid work, Windows 11 introduced a centered Taskbar, 'Snap Layouts' for multitasking, and a visual overhaul known as 'Mica' that favored rounded corners and soft translucency."
-            },
-            "media": {
-                "url": "images/windows_11_desktop.webp",
-                "caption": "Windows 11 brought a centered Start menu—the biggest layout change since Windows 95.",
-                "credit": "Microsoft"
-            }
-        },
-        {
             "start_date": { "year": "2021", "month": "8", "day": "18" },
             "group": "Windows Server",
             "text": {
@@ -219,6 +245,19 @@
                 "url": "images/windows_server_2022.png",
                 "caption": "A focus on the Datacenter and the Cloud.",
                 "credit": "Brytesoft"
+            }
+        },
+        {
+            "start_date": { "year": "2021", "month": "10", "day": "5" },
+            "group": "Windows Desktop",
+            "text": {
+                "headline": "Windows 11: The Modern Refresh",
+                "text": "Released during a global shift toward hybrid work, Windows 11 introduced a centered Taskbar, 'Snap Layouts' for multitasking, and a visual overhaul known as 'Mica' that favored rounded corners and soft translucency."
+            },
+            "media": {
+                "url": "images/windows_11_desktop.webp",
+                "caption": "Windows 11 brought a centered Start menu—the biggest layout change since Windows 95.",
+                "credit": "Microsoft"
             }
         }
     ]
